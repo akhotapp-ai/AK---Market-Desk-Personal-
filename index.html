@@ -23,12 +23,20 @@ ul{margin:6px 0 0;padding-left:18px;font-size:.9rem}
 a{color:var(--ac)}
 a:focus-visible,summary:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
 .disc{font-size:.85rem;color:var(--mu);margin-top:24px}
+.card{background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:14px 16px;margin:14px 0}
+.card h2{font-size:1.1rem;margin:0 0 8px}
+.wrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:.88rem}
+th,td{padding:6px 8px;text-align:left;border-bottom:1px solid var(--ln);vertical-align:top}
+th{color:var(--mu);font-weight:600}
+select{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--ln);border-radius:6px;padding:6px 8px;margin:6px 0 10px;max-width:100%}
 </style>
 </head>
 <body>
 <main>
 <h1>Market Desk</h1>
 <p class="mu" id="status">Loading…</p>
+<div id="screen"></div>
 <div id="list"></div>
 <div class="disc">
 <p>For personal reference and education only. Not investment advice, a recommendation or a price target. The owner is not a SEBI-registered adviser. Ranges show how far each stock has typically moved, not where it will go. Prices come from an unofficial source and may be delayed or wrong, so check the exchange or your broker before acting. Headlines link to their original publishers.</p>
@@ -41,7 +49,29 @@ const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!==u
 const f=n=>Number(n).toLocaleString('en-IN',{maximumFractionDigits:1});
 fetch('data/prices.json',{cache:'no-store'}).then(r=>r.json()).then(render).catch(()=>{
   $('#status').textContent='Could not load data/prices.json. Open this page from your GitHub Pages link and check that the Update market data workflow has run.'});
+function screen(d){
+  const rows=Object.values(d.stocks||{}).map(x=>({x,chg:(x.price/x.prev-1)*100,off:(x.price/x.hi-1)*100,up:x.target?(x.target.mean/x.price-1)*100:null,n:x.news&&x.news[0]}));
+  if(!rows.length)return;
+  const S={up:['Analyst gap: highest first',r=>r.up,-1],upLow:['Analyst gap: lowest first',r=>r.up,1],off:['Furthest below 52-week high',r=>r.off,1],offHi:['Closest to 52-week high',r=>r.off,-1],chg:['Today: best first',r=>r.chg,-1],chgLow:['Today: worst first',r=>r.chg,1]};
+  const card=el('div','card'),sel=el('select'),wrap=el('div','wrap');
+  card.append(el('h2',null,'News and screen'),el('p','mu','A sortable data view of every stock, with its latest headline. It is not a ranking of what to buy: a stock far below its high, or with a low analyst gap, may be cheap or may be falling for a good reason. Do your own research.'));
+  Object.keys(S).forEach(k=>{const o=el('option',null,S[k][0]);o.value=k;sel.append(o)});
+  card.append(sel,wrap);$('#screen').append(card);
+  const pc=v=>v===null||isNaN(v)?'n/a':(v>=0?'+':'')+v.toFixed(1)+'%';
+  function draw(){
+    const [,fn,dir]=S[sel.value];
+    const a=rows.filter(r=>fn(r)!==null&&!isNaN(fn(r))).sort((p,q)=>(fn(p)-fn(q))*dir),b=rows.filter(r=>!(fn(r)!==null&&!isNaN(fn(r))));
+    const t=el('table'),h=el('tr');['Stock','Price','Today','vs 52-wk high','Analyst gap','Latest headline'].forEach(c=>h.append(el('th',null,c)));t.append(h);
+    a.concat(b).forEach(r=>{const tr=el('tr');
+      tr.append(el('td',null,r.x.name),el('td',null,'₹'+f(r.x.price)),el('td',r.chg>=0?'up':'dn',pc(r.chg)),el('td',null,pc(r.off)),el('td',null,pc(r.up)));
+      const td=el('td');if(r.n){const l=el('a',null,r.n.t);l.href=r.n.l;l.target='_blank';l.rel='noopener';td.append(l)}else td.textContent='No headline found';
+      tr.append(td);t.append(tr)});
+    wrap.replaceChildren(t);
+  }
+  sel.addEventListener('change',draw);draw();
+}
 function render(d){
+  try{screen(d)}catch(e){console.error(e)}
   if(!d.sectors.length){$('#status').textContent='No data yet. Run the Update market data workflow once from the Actions tab.';return}
   $('#status').textContent='Last updated '+new Date(d.updated).toLocaleString('en-IN',{timeZone:'Asia/Kolkata',dateStyle:'medium',timeStyle:'short'})+' IST. Prices are end-of-day and may be delayed.';
   d.sectors.forEach(s=>{
