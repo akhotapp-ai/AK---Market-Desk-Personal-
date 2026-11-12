@@ -1,4 +1,4 @@
-# Market Desk
+# AK Smart Market Desk
 
 A small personal reference page for Indian stocks. It shows end-of-day prices, typical price ranges, 52-week high and low, an analyst consensus target and recent headlines, grouped by sector. A GitHub Action refreshes the data twice every weekday.
 

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
-<title>Market Desk</title>
+<title>AK Smart Market Desk</title>
 <style>
 :root{--bg:#eef2f4;--sf:#fff;--ink:#14232b;--mu:#52656f;--ln:#cfd9de;--ac:#0e6f6e;--up:#17794c;--dn:#b3321f;color-scheme:light dark}
 @media (prefers-color-scheme:dark){:root{--bg:#10191e;--sf:#182329;--ink:#e6eef1;--mu:#9bb0ba;--ln:#2b3b43;--ac:#4fc3c1;--up:#4fd08e;--dn:#ff8a78}}
@@ -26,7 +26,7 @@ a:focus-visible,summary:focus-visible{outline:2px solid var(--ac);outline-offset
 .card{background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:14px 16px;margin:14px 0}
 .card h2{font-size:1.1rem;margin:0 0 8px}
 .wrap{overflow-x:auto}
-table{border-collapse:collapse;width:100%;min-width:640px;font-size:.88rem}
+table{border-collapse:collapse;width:100%;min-width:900px;font-size:.88rem}
 th,td{padding:6px 8px;text-align:left;border-bottom:1px solid var(--ln);vertical-align:top}
 th{color:var(--mu);font-weight:600}
 select{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--ln);border-radius:6px;padding:6px 8px;margin:6px 0 10px;max-width:100%}
@@ -34,7 +34,7 @@ select{font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(-
 </head>
 <body>
 <main>
-<h1>Market Desk</h1>
+<h1>AK Smart Market Desk</h1>
 <p class="mu" id="status">Loading…</p>
 <div id="screen"></div>
 <div id="list"></div>
@@ -61,9 +61,9 @@ function screen(d){
   function draw(){
     const [,fn,dir]=S[sel.value];
     const a=rows.filter(r=>fn(r)!==null&&!isNaN(fn(r))).sort((p,q)=>(fn(p)-fn(q))*dir),b=rows.filter(r=>!(fn(r)!==null&&!isNaN(fn(r))));
-    const t=el('table'),h=el('tr');['Stock','Price','Today','vs 52-wk high','Analyst gap','Latest headline'].forEach(c=>h.append(el('th',null,c)));t.append(h);
+    const t=el('table'),h=el('tr');['Stock','Price','Today','52-wk low','52-wk high','vs 52-wk high','Analyst avg target','Analyst gap','Latest headline'].forEach(c=>h.append(el('th',null,c)));t.append(h);
     a.concat(b).forEach(r=>{const tr=el('tr');
-      tr.append(el('td',null,r.x.name),el('td',null,'₹'+f(r.x.price)),el('td',r.chg>=0?'up':'dn',pc(r.chg)),el('td',null,pc(r.off)),el('td',null,pc(r.up)));
+      tr.append(el('td',null,r.x.name),el('td',null,'₹'+f(r.x.price)),el('td',r.chg>=0?'up':'dn',pc(r.chg)),el('td',null,'₹'+f(r.x.lo)),el('td',null,'₹'+f(r.x.hi)),el('td',null,pc(r.off)),el('td',null,r.x.target?'₹'+f(r.x.target.mean):'n/a'),el('td',null,pc(r.up)));
       const td=el('td');if(r.n){const l=el('a',null,r.n.t);l.href=r.n.l;l.target='_blank';l.rel='noopener';td.append(l)}else td.textContent='No headline found';
       tr.append(td);t.append(tr)});
     wrap.replaceChildren(t);
