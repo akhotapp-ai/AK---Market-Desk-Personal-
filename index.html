@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Market Desk</title>
+<style>
+:root{--bg:#eef2f4;--sf:#fff;--ink:#14232b;--mu:#52656f;--ln:#cfd9de;--ac:#0e6f6e;--up:#17794c;--dn:#b3321f;color-scheme:light dark}
+@media (prefers-color-scheme:dark){:root{--bg:#10191e;--sf:#182329;--ink:#e6eef1;--mu:#9bb0ba;--ln:#2b3b43;--ac:#4fc3c1;--up:#4fd08e;--dn:#ff8a78}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:760px;margin:0 auto;padding:max(20px,env(safe-area-inset-top)) 16px 48px}
+h1{font-size:1.8rem;margin:8px 0 4px}
+.mu{color:var(--mu);font-size:.9rem}
+details{background:var(--sf);border:1px solid var(--ln);border-radius:10px;padding:14px 16px;margin:14px 0}
+summary{cursor:pointer;font-weight:700}
+.stk{padding:12px 0;border-top:1px solid var(--ln);margin-top:12px}
+.top{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.up{color:var(--up)}.dn{color:var(--dn)}
+.stk p{margin:4px 0;font-size:.92rem}
+ul{margin:6px 0 0;padding-left:18px;font-size:.9rem}
+a{color:var(--ac)}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--ac);outline-offset:2px}
+.disc{font-size:.85rem;color:var(--mu);margin-top:24px}
+</style>
+</head>
+<body>
+<main>
+<h1>Market Desk</h1>
+<p class="mu" id="status">Loading…</p>
+<div id="list"></div>
+<div class="disc">
+<p>For personal reference and education only. Not investment advice, a recommendation or a price target. The owner is not a SEBI-registered adviser. Ranges show how far each stock has typically moved, not where it will go. Prices come from an unofficial source and may be delayed or wrong, so check the exchange or your broker before acting. Headlines link to their original publishers.</p>
+<p>Not affiliated with or endorsed by NSE, BSE, Google, Yahoo or any company named here. All names belong to their owners.</p>
+</div>
+</main>
+<script>
+const $=s=>document.querySelector(s);
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!==undefined)e.textContent=x;return e};
+const f=n=>Number(n).toLocaleString('en-IN',{maximumFractionDigits:1});
+fetch('data/prices.json',{cache:'no-store'}).then(r=>r.json()).then(render).catch(()=>{
+  $('#status').textContent='Could not load data/prices.json. Open this page from your GitHub Pages link and check that the Update market data workflow has run.'});
+function render(d){
+  if(!d.sectors.length){$('#status').textContent='No data yet. Run the Update market data workflow once from the Actions tab.';return}
+  $('#status').textContent='Last updated '+new Date(d.updated).toLocaleString('en-IN',{timeZone:'Asia/Kolkata',dateStyle:'medium',timeStyle:'short'})+' IST. Prices are end-of-day and may be delayed.';
+  d.sectors.forEach(s=>{
+    const det=el('details');det.append(el('summary',null,s.name));
+    s.stocks.forEach(k=>{
+      const x=d.stocks[k];if(!x)return;
+      const ch=(x.price/x.prev-1)*100,m=x.move,w=m*Math.sqrt(5);
+      const b=el('div','stk'),top=el('div','top');
+      top.append(el('b',null,x.name),el('span',ch>=0?'up':'dn','₹'+f(x.price)+'  ('+(ch>=0?'+':'')+ch.toFixed(1)+'%)'));
+      b.append(top,
+        el('p',null,'Typical day range: ₹'+f(x.price*(1-m/100))+' to ₹'+f(x.price*(1+m/100))+'. Typical week range: ₹'+f(x.price*(1-w/100))+' to ₹'+f(x.price*(1+w/100))+'.'),
+        el('p','mu','52-week low ₹'+f(x.lo)+', high ₹'+f(x.hi)+'. Recent daily move about '+m.toFixed(1)+'%.'));
+      if(x.target){const t=x.target,g=(t.mean/x.price-1)*100;
+        b.append(el('p',null,'Analyst consensus (via Yahoo Finance): average target ₹'+f(t.mean)+(t.low&&t.high?' (low ₹'+f(t.low)+', high ₹'+f(t.high)+')':'')+(t.n?' from '+t.n+' analysts':'')+(t.rating?', rating: '+String(t.rating).replace('_',' '):'')+'. That is '+(g>=0?'+':'')+g.toFixed(0)+'% from today’s price. Targets are usually 12-month views and are often revised or wrong.'))}
+      else b.append(el('p','mu','No analyst consensus available.'));
+      if(x.news&&x.news.length){const u=el('ul');x.news.forEach(n=>{const li=el('li'),a=el('a',null,n.t);a.href=n.l;a.target='_blank';a.rel='noopener';li.append(a);u.append(li)});b.append(u)}
+      det.append(b)});
+    $('#list').append(det)});
+}
+</script>
+</body>
+</html>
