@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:59:31.160570+00:00",
+ "updated": "2026-11-16T11:41:41.112286+00:00",
  "sectors": [
   {
    "name": "IT",
@@ -69,13 +69,13 @@
  "stocks": {
   "TCS": {
    "name": "TCS",
-   "price": 2407.5,
+   "price": 2405.0,
    "prev": 2407.5,
    "hi": 3269.78,
    "lo": 1955.62,
    "move": 1.87,
    "target": {
-    "mean": 2370.38,
+    "mean": 2383.12,
     "high": 3266.0,
     "low": 1920.0,
     "n": 40,
@@ -83,8 +83,8 @@
    },
    "news": [
     {
-     "t": "TCS Share Price - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xa3lkaFFielNzaEh0c3oxTzdzMzV1MDk5TzFMYnoweVkwWG02cVBRTHZSUmM2Q1JpYVpsN2l2VmZwMFpwUzI5cm5WOUFHSGE1c2ZsRjRTWWl3MmlNOGdQUmdkSlZLUUxqRUctcGVsdDA?oc=5"
+     "t": "TCS share price surges 28% in October, hits over 7-month high; here's why - Business Standard",
+     "l": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRHJkNU5lNUtYWnBHY1lnQ25VMjJCUEhfZ2NRLXNEdERZTFRpaFFURGZLYWw2NTduZEtGYnNRRmJxc3RUYklWVFRkdmhobndHNTlGb09Bd0lOMURPTnB3VUNXVXVlWGpWaWE2WjNfZFZzWlY5TWlsRnBJWXdKQ2tCdFhZbWZrXzJFZ0V2cXM4ZG5pZHYwVzdTOFBnUUNBeVlENjVZSW4tR1lEX1JIMzFNZFg1TGdPVlJCOVpmcmhfRkhheWltVGdHRUJXSlVSZnpUUGU00gHYAUFVX3lxTE1IcEJrS2MxQkpDandGS2FvQ3RaZVE3ZVE3X3lmVVpYeDVSd0FzWHVycmhBbGg2VHQza3E1VmZjMldJRXNqMFdYc1ZPRFhlWERCeVZpS0FGckNSTW9XbWMwekhQYVM2NmdJWVZHMXFmNXU3Y2xtQzUwZ1ZNeXRFZEZrMEMyN1E1NzIyNGpya2pRRjNpR3NSX3NxTURwbmdYRzk2WldQVFlGQnhYZ2lnNzdVZTNoQXBKMElQSGU1amU2a1BmcUN2R2txR2g1RUNDM2NpdXRxSUFDVw?oc=5"
     },
     {
      "t": "Where will TCS Stock be in the Next 5 Years? - Equitymaster",
@@ -98,7 +98,7 @@
   },
   "INFY": {
    "name": "Infosys",
-   "price": 1147.1,
+   "price": 1145.1,
    "prev": 1141.5,
    "hi": 1653.52,
    "lo": 958.44,
@@ -127,7 +127,7 @@
   },
   "HCLTECH": {
    "name": "HCL Tech",
-   "price": 1387.7,
+   "price": 1384.6,
    "prev": 1378.0,
    "hi": 1713.75,
    "lo": 1010.59,
@@ -141,26 +141,26 @@
    },
    "news": [
     {
-     "t": "HCL Tech Share Price Today, HCL Tech Stock Price Live NSE/BSE Updates - The Economic Times",
-     "l": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0tuT0d3S2tscVlhVTY2eHktNWY3YU03ZDhuUlNwa05YcGVpYno3VWM1bU1ldFVJTVZLNEZOTEo5NFpCT3RYZnBRTmctazdreEc5R0xiT281bUtBSGVjSTMyWWZPS2NzTXNfUUREQTVTekQ1V3ZVeTZRZDM5a3d2Y3FoQ3czeDQ0RzM4?oc=5"
-    },
-    {
-     "t": "HCL Technologies Ltd Share Price Today,, HCLTECH Share Price NSE, BSE - Business Today",
-     "l": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObl9IN0tnQ2dHc3VpMkQwNXQzWnh0YUFxTnpTS0NGQlRfNHR1UzhrOHZoRWZYcmNwS2lWV0N5bWJDLXR4MDF0Mkxud2Y2cGtsLWt4a1FGMHNZRnlUSVVGSkFBQWltdFVVam9tbjM5eXA5bnBXeHVaYjFHRkc5bTVRbWIycDNfNmxUM2hR?oc=5"
-    },
-    {
      "t": "HCL Technologies Share Price - Live NSE: HCLTECH Stock Price & Chart - Upstox",
      "l": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VakFpRExUYldXMkNsOENVSHQ2NUIyNDhRZklKbjVtZGJBMzFsSXpfRGJyVzdQWkxCb0oyYnZIMTRBblBmZl9WRmlRVTZ3Qm8tR1dJS21pQkl6WGpWOWJ0dllEMVpKZEJTaE8w?oc=5"
+    },
+    {
+     "t": "HCL Technologies (HCLTECH) Share Price Today (NSE), Market News - TechGraph",
+     "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WdkRCRzl5RE9jTE00SjdfaE0xLXoyai1SLXRaY3hmTmJXLXpVcE4teml1LURjYVhuVG51c0tYbWQxUDZjZmRXUm42cDJYSXZNaDJiNXR3aTRiazMwVG0zVQ?oc=5"
+    },
+    {
+     "t": "HCLTECH Forecast — Price Target — Prediction for 2027 - TradingView",
+     "l": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GNDlQeElfWVM3d3UzbWxrQzRMUkFZT0tPWFlFOHFyenBKSHVfQUxKbldNZDRxOE1NU091am5BVjRqX1B1SVJQTEpjVVIzRXJZY0NqT1I5NklabHptRklWSGVtVTlUdWVvOTBzcWJHR09kdUVkNjgtMWRn?oc=5"
     }
    ]
   },
   "HDFCBANK": {
    "name": "HDFC Bank",
-   "price": 808.25,
+   "price": 816.5,
    "prev": 804.0,
    "hi": 1000.94,
    "lo": 669.2,
-   "move": 1.48,
+   "move": 1.49,
    "target": {
     "mean": 961.55,
     "high": 1270.0,
@@ -174,18 +174,18 @@
      "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haXVDV2V3Wm5yQXBKZFJjZjkyQ0syd3BZWnRJZmo5UEdhckVTeTViZWtfVnkyRF9LVGRwSXZwMEo4Q1lUSDZfUzFlQmM1bEJhaFZEMXhSRHQ3S0h0THNBdXBB?oc=5"
     },
     {
-     "t": "HDFC Bank, 18 other 'fallen angels' could be D-St's next winners: Elara - Business Standard",
-     "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdWJfQmNWSTZxTUhZR1J5TDg2WUFqenlFOTN1YXVrR2xETW83X1dHMkFlSEFyQ2VXWXB3VnNjR0w4S2lkVzVmQ0htcGRXbjllUUNDa0E4TnBrcnpodHpBTGJpYUpfT3hFSTNnM09vbG9YdXRHQkludkhDTVlfb1dJYkhDZDBQVzRWelVCUVlIa2tCRUptZUltOW9WVktTNnN4ZmVGV3VoQ1FWa21fSFpwRHpjQ2dHS2JBNlNkaDFsY2E2T29UR3lvbFZOUVdFWEHSAdQBQVVfeXFMT0dDOEU5QlRZTFNoUGRjWThQZURKUGZWRVJyMks4T3VZbDVFelN2M1N6aEJxcTVFd2R3OUtXRWRRVmZsVWRuNDV6c1YtOVlRQUlBOTRXNGkydmlNdkZPV0lLVWhWLUtXWnRlVXNWUnpSMmktdmVDa2FpaUtpSndPRnZocmJqWGo2Sk5XNXFWUWxKbDJDMlNjb2NFWlVqUU9vV21sVXZwTWFYeElvaDJud2ZqaTFqRjhZaEJXRGo3Zm5hUkNwMDdJb3dONWtDNzhZbm5URGs?oc=5"
+     "t": "Indian Equities Rise: Sensex Up 512 Points, Nifty Nears 25,300 Amidst FII Inflows - Rediff",
+     "l": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmMyeDBUTU5OLWRnX2hKNThraEloRWxtbkROamhTMWRydEhMN3lyU0tYN2VQbDllZG80NnJQWW5DMlBQVlZBSFFlN1Q2Rzc2aUc0c1ZGRUg5VDhBTWFFanVsbE5BbmxkQnNIa3U4VHBuTkJlU1JEUFFERU5qcWhJU2RCV1RVUEIySXFucDhmd2Y3NHl3NFRjMjdYOF9ZV1lCcExoRGE4UTVJczl2WDlZSlN4blNnakNBZC1ETXVNa0dDLVFSd3JZY3ZR0gHMAUFVX3lxTE1lQmgwcExsMHdnODRvdENFRjBxdFIxTmdwcTN2UU94bTl2YUpCTmtzRmJETXZBVEtyT1lGM1IzUXRpYUI0TllBRE5sSkJtTGJIWHFpd1lqMU5hZnVPUTdlUVY1X2dzUjNjeWtUZTh4SnpDZGlDa0hDSFRnRFNSNHZER3AxS1VMaVl2R2YzOEEtcmxwaUxlZVFxempFenBwdzQ5a2p3TWEyYnQ2LTRMSTJKVGI5MFpzS0J2N29uLTY3THp6d0pGXzVHcWFTVw?oc=5"
     },
     {
-     "t": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points - The New Indian Express",
-     "l": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmNVZDI4MTRjLW91amhMTUxKaDYyV1Q2MktXRi1DeUlGNHpWZ0ZqekJCTTZVMnJRVkl1Z0doNlVfUi1lNmVVWmNoUWxFZWNJQVgybHRnaDlFWU5Nb3FqN081emtrdThtQy1od0tUOWg5bFRTRXBCODZLdXNPVjlaQXFtYXY3M3JfdlA2aDF0SU82UGJXZlpneGhzUVVnVHZGX1p3dWU1RVlNRU5KX3dDV1RuYWJiQWtPYjZSMHphTlVaZGvSAdABQVVfeXFMTTR6TUloaGhNcF9RWlM4Y0NwSFRXTFdSYllvYjRkbjFQUWJlOGFxb25RX1NzTWl6ZFRZYUowdm9VbzVuSzFnbkFhcTRIX0pfM09UalduR1RYYTlxYllvb0REbEFVVjQ1VXFvZlBLeWpzNk9MbVkyQ1Z3VkNycW5TanNnSkc4UU5DYXptNDFETmRUQ2Flck0yNVZGWk44RlotNXNRUVUwOVNmY3FQclIxOW5VUy1JbG81SzZNSnQ3WHEtNEYyeFNtSDdRN0t6UjZsNQ?oc=5"
+     "t": "Stocks to watch: RIL, NSE, HDFC Bank, IRFC, Infosys, Cupid, Blue Dart, OMCs - Business Standard",
+     "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRkJWcmRzYUZMUUp2a2FscFhZRmhXejhiMGJQNFB5dDNGaUhJb3V1MUJZTXNrNUZrZ0xrWmpKRmRXV2tTVzZ4N1FkeUhkSHpDLW1INnptR1ZTYXB2VlVDN3FTMHg2U0xBVC1DNVp1emVFTzJUWlJGYVU4ZmlxYmxfR3dTem1xREdIcDFkREwzSVlLcXRsNUtMajJhbGV2ajZBdGxrdTVsVGdpaWlrVllRRndoRHN3eWZ4N1o4WS1PNkVFcnA3di1XNDl3c191OEnSAdQBQVVfeXFMTktQazF5ZDQxTE1YbEtKOXNvbDBxSTAybElWMUJKaG1mUmVTcHk1OWhQenVpTFBlZUpqUWRxSkhJSDNreVZiem81aVpaWmYtaVlfZnpRRk5IZ3V3Q0tHVkxpR2lMalc1MFdMMzkxSkZHWlIzRUhUSEU3Yk5GUkJPZlpBYXhDalctQmhJYl82MFQ5R3BiWk9vS0xhZGREVWhrWUxHVDh1V2Y3ZnBSSW5uWE54MTVoN1NtYXNZZUdKbUdEYkZMMTVPcTdPTVhoMTJiZHMyS1Q?oc=5"
     }
    ]
   },
   "ICICIBANK": {
    "name": "ICICI Bank",
-   "price": 1589.3,
+   "price": 1585.0,
    "prev": 1583.6,
    "hi": 1616.0,
    "lo": 1177.67,
@@ -203,18 +203,18 @@
      "l": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5"
     },
     {
-     "t": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - DD News",
-     "l": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGVSOVI4VlNMdFVobUwxNHV4alZqdU5YWFlCV3EzZHhWS1RwSEtQN2pkTnA5MndITXN5QzF1RHhyLUFEU3Q2SHBOV0h5UjlaaHlrdHJLcnpLSGc1Z1JjaGN4UE1RN0Q2MlY1Mm5jMmF5VWZBTjZ0dDV2cDVHNEQ3UWNtVWkzOG9NWnVRMkQzT2YwT3lNcnJuVHd5anZ1WEdsRURaZTFfXzI4SzRybWJCcg?oc=5"
+     "t": "ICICIBANK Share Price Today - ICICI Bank on NSE/BSE - scanx.trade",
+     "l": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtenFscnpQOFlPM21KMjdXWFAwdlhfdjNib3Vkamx3X3VqdXhNN1NIckRUZEt2RVdwSGlVQld4RVZDcFNEMGhlM2ZxNjZqUERvVG1sTQ?oc=5"
     },
     {
-     "t": "FPIs pump ₹84,290 crore into equities in first fortnight of November - Business Standard",
-     "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW9ISkREQ0h6WDB2bDZieVF5b1hmbEVJVk1BWHNuV0V6QUZhNUJDanlQM3Zlcm1SQXZ6UDVVTHYyUkxyTlVVcVBnT3lKQlNOSDRQSlRNMkZMWWl5WjRIb2JVWXdaUG9ZblFya2QwdURnbGxjWXFrdWZydzJIWjB0N0lPVlJLOTUwTjBOaDJqU25TeDhGVjBta1k0elkzMmEyY042SkZ1MjBfT0ZFV0NoSEpLVnMxVnNwMG5rQ0NtYm1rXy1idWpSMVhTN19HSVHSAdQBQVVfeXFMTkNFZEI1SldGR0EwRXlCYUhVZnN2MUxnaXg3T3NZS3BxMnIxcGs0WDEzYWFiN3RvRmk2Z0dpZ2FtLWF1ZC1fZWVKa0F5LURIWkJ1NW9FRWJnMmR5T0xJazcwSFhfSWlzbUhlV2JwUGVrM0NZX0k3bTYtRzZsUlRQZEoxMDRPR3p1MTdTSlptQmEwd1pGaHMtWE0zZy1WNU1NNzJ1UkRnbGplU3NpX0YydkZCOFptMW9JeG5JWjJzN3k0YjY1ckZ5T2pmbEotYXdINE85MHY?oc=5"
+     "t": "Under Rs 1770 Stocks to Buy in Nov 2026: Top 5 Picks - Univest",
+     "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14Mm9xdTZBWmpaN0gyT2tJc0RhY2hha0hnSXMxV2FLVzI4Tm8tWWtaakZIMk85T091T3E4c1NnellrU1BnSFJTc1M4NlJ4WTB0d1ZEaE4zVUF6U1NTZTdlWHN3?oc=5"
     }
    ]
   },
   "SBIN": {
    "name": "SBI",
-   "price": 1092.0,
+   "price": 1090.5,
    "prev": 1080.0,
    "hi": 1212.84,
    "lo": 927.73,
@@ -243,7 +243,7 @@
   },
   "ONGC": {
    "name": "ONGC",
-   "price": 224.22,
+   "price": 226.99,
    "prev": 225.0,
    "hi": 295.76,
    "lo": 211.08,
@@ -257,29 +257,29 @@
    },
    "news": [
     {
-     "t": "ONGC Share Price - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZndBbkF4cmU5QWRoemVsNXU2dlh6bW5yZXd6bTYyUkNFVUdTWUs1ZkV0ekhaUzl1dlpqRi1PZWlXY0VmNnV5eFUyVDlXWEFNSGNXR256NjVCZ3Zlakt5c2RVTzVBS2RfZE9Sa1Z5SC0?oc=5"
-    },
-    {
      "t": "Oil and Natural Gas (ONGC) Share Price Today (NSE), Market News - TechGraph",
      "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GSjNtNUdBc0ZOV1ZjTHBMRE4tVUs2a0lTa3Q2aUhpVjNlVHZWMElBUXpSSDZIanNUUWtaVUVmdHZLMHJ4NGtwMDFTZm9rUk5zZXpGeHhhd2FyN0I0?oc=5"
     },
     {
      "t": "Oil and Natural Gas (NSEI:ONGC) - Stock Analysis - Simply Wall St",
      "l": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTRW9ieV9VRnR1U0JMdDdnU3FrbHl5Z0E5TTBPMXhGelk1ampMZEczQTJhcU5mU0ZwVmpqdFBBSkNwTjRxUTVQNW41NWdnYkZYZG5uYnpfUnpKX3NURzVJUWh3bXoxTHhZR2pKeERMVTlXdmE2dFpBWmNSSjZDcUU?oc=5"
+    },
+    {
+     "t": "ONGC Share Price - Upstox",
+     "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZndBbkF4cmU5QWRoemVsNXU2dlh6bW5yZXd6bTYyUkNFVUdTWUs1ZkV0ekhaUzl1dlpqRi1PZWlXY0VmNnV5eFUyVDlXWEFNSGNXR256NjVCZ3Zlakt5c2RVTzVBS2RfZE9Sa1Z5SC0?oc=5"
     }
    ]
   },
   "OIL": {
    "name": "Oil India",
-   "price": 439.4,
+   "price": 441.4,
    "prev": 441.5,
    "hi": 529.92,
    "lo": 388.85,
    "move": 1.36,
    "target": {
-    "mean": 532.1,
-    "high": 645.0,
+    "mean": 529.95,
+    "high": 604.0,
     "low": 365.0,
     "n": 21,
     "rating": "buy"
@@ -294,14 +294,14 @@
      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0J6b3duejZISmRXam5GaGs3cUhfbEZaSzVZTWF2a1VSb0pSTHdYVDN5bWFsNlE2RkdlREsxSjNCOEYwR2M5OWRjRXdOci1QMTVIbEh0Ty1OSnk5YUtwV2lCN2d3WDlfR0xnUDhHSkhLX1lBRGc4NnpzY0dCUk0tR2tIMzM0ZE1ybHNkOGhGX09fd0N4TWp5QmtNNXp4WGp0R3YwazhtcnJydG9NeGZpeWF1S2ZOcS1veWZxeExwSTlGZUtCTElWVTFtZHl2eWh4UDNxczBR0gHbAUFVX3lxTE03Nkp0OGZzUkE5OGRVU19YbnFiN3N0U0pYRTJOdVhNOU9nd2ZLMjVYd21QbUpCNEI3NUEtR0tUVWJNM0pyZFNoaGUtQm56ak9vLXlBQlNFVC1iYTg4dC1YbGViVVlTWlpaaGR5ZWJnZFF0V2NqNUprWDZZQTJZLXNrbHpJR2FJMlB4R25JNmdaSTJRUEt1bmJlYTNMU1UyaU1CSGw2NXJzc2NIc1g5UmNTRlJ4czRYUXBzcllvN2FNZ1ZubDFOS05LLW5jV25CVjlwNlFhT3ZOOE4zVQ?oc=5"
     },
     {
-     "t": "Chennai Petro, ONGC, Oil India fall up to 3% amid declining crude oil prices - Moneycontrol.com",
-     "l": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEJLeFZhcTBQTW1KSER5YnkxeEdIV0VzWWdlVDJ0ZkQ2Sk9JTEd4QTVjdXdIUlBDQ3E5LXFyazdZTDJrc2dRTUtQZDFKWG95aWQyYk85Sy03RGZNejQxbjhXTWxCelRwblI3akxlN3BaRTFOR2N5V1l1U3ZZUEg0a0FfazBpYnlMbkM5cGZpcy1JbWtMMjkwVXdzQWgxSXhRUE1qbnRTOVRRNTJxN2Z6YXJ3ZzZ6YzNreG5SbnlxVGYybUR4UW1pU1lnRk1Uenk5ZzN4OdIB2gFBVV95cUxQX3EzNUI5OWtGeDNTaFZCM3AxU1gtMVVPZVZpUFZoZHFnQXZsNGhGc2t0UnJOMTJXaDVzZnFoMjFJNE52WHo0SExWQnI2Rm5iRmVGZ1ExMmRjcHhraklyaTk2VjFTVHUyNjBrWjNwTjV3UGo5Wi1faUszd09pWHdJcTBiVDVrZHVZZ2Q0QUg4WEhCMW9Vd3JBLXI1Q0hZeDJIOV9XMDhYYmtlQldCcXRJbURqREw0VVNZejR1M01ZTzEtZ1NKejFwMy1wVXp4THhrN1JVTURNTmgzdw?oc=5"
+     "t": "Oil India Q2 profits advance 61% YoY to ₹2,309 crore on higher crude oil rates; ₹7/share dividend declared - Upstox",
+     "l": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRnZuLTd4ZmpYbEc3Tzd4S29BbWJIRVFwaXNONEVPVTd6Y19RMVpZdGZoSlB3eHNYQVI0a3F2YXo2Mkk0WktOaFVZYTRMYS1nRzFzVXVQLU5wODA4d2ZBVjY4cHVtZUUzam9pYVJzM01BajBQNHBucmlUVjllQTM3MXBUQlhOSTVUR1pxLXdoVWE3dWE1cXlCS1J4bVR0SHN1REFZT3hmU3N6b0FrbUxmU1FucEplV25ucm1fcFJIUGQ5SF9iNUJ4M2FMMDY1N3QwQ2hCNl8zSHVVYXBTQmZIOVJIRVFpRDYwUWg2Z3ZRdklLYlJTLUlR?oc=5"
     }
    ]
   },
   "BPCL": {
    "name": "BPCL",
-   "price": 303.95,
+   "price": 305.3,
    "prev": 302.0,
    "hi": 391.65,
    "lo": 266.6,
@@ -330,7 +330,7 @@
   },
   "IOC": {
    "name": "IOC",
-   "price": 143.3,
+   "price": 144.03,
    "prev": 144.04,
    "hi": 184.96,
    "lo": 124.92,
@@ -352,30 +352,26 @@
      "l": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JWDc2RElvekJLRlBkVnlIbTVoRVRmVnFwcm1Jelg1ZE1LX1BwMWUxZG9XbS1CMmNuNTFVa0g2NHV5dWZmNTlkdjNkenBCWVhjTHZIQV9McGpYeHkzd3VOc2llZl9MRGxNVzVIUHl6N0F2STR1NWJoQVljaw?oc=5"
     },
     {
-     "t": "IOC shares gain as board approves interim dividend of ₹5 per share for FY26; check record date, other details - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTnMxVmRWLS0zR2d1TFBJdW0zXzc2UkhYWjd2cVN1UU1jOWhzanF2ZUlxUWxZbWxwUUZIS3hxa3ZpMnhoMWZKTHRkNlh5b1BkcVR2R3Y3R254TFB3NjlwMW93eXpnNHp6WU5zbXNDTFVNVDNDd2Q4bDhOOWxNdC02R1lnS2VjcXhYc2xCUC1BRkc4aDNPU3ctcUpIYmxJWXI4UjNDZ2lRSzhZZV8yWWo4akRlbG5xZ1paSkU0UnZscEdNaHBXSVZKTzJDcUNFbC11U1JzNk1HaHBWT0NyQUFpVG0tVlQ5R19VNFlwRk9GS21ZZmI5LTh0SWFn?oc=5"
+     "t": "HPCL, BPCL, IOC shares jump up to 4% over oil price decline as US-Iran tensions ease - Moneycontrol.com",
+     "l": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZWxORUNwU01uTXF4TWV6OU9OcU5CV1dkb210bEVvdzh3cVJNR1JPb3pUVGRHQzIyNFM0X2NuOF9iaHlSck1KWGg1RWRibzI3VlV2NmdYZVRqNzFpckkwNmpGSGIzQzUwXzQ1aWt5OVZzQkRSSWpNam5vYUYxMEJmOXdrVUs1RmY0eWVXR0ZZWmVkS1ROejlOYzJlZGFGUmJTOU81T1dibUZBUktrNmNpTW1TZEhrRFdRZWRNa1Z4SG1meHc5R01DX0RvOVlfZjQ3REEzVW5hMDM2ZG9WcHVaZ1Q4djZWcjNYQ1Vnc0t6ZDZPVmvSAfgBQVVfeXFMUGQxaFBpWTlVTkF6eEI4UGVtc2gwUktIallBMUpUYzlyRHNJVFo0X3lGa3dSaGZmSXNlQXNRTHRlRE52TklzR2RHM2M3UEd6R2lkaXdlNnQ0VzNySTd6eVJMU1pTWV94NnFVRTVpenhZZmNOUkVWS3RBUUNzTGxVT2VnYUVUU2hITXRxVjI4N210bm1tdXNub1lZUm1VbVlRWUYzYmQzbVNVWXBHeWJZX0tOT21nWk54RnhxVEp5SmgyUzhMZ09hLUhfT0pPMHIzRUZhU0NJU0NCUGFWdkoxZlhjTDJnS1ZJSTdTd190QmFjSEh2bFRFZWI?oc=5"
     }
    ]
   },
   "ASIANPAINT": {
    "name": "Asian Paints",
-   "price": 2600.0,
+   "price": 2572.9,
    "prev": 2550.0,
    "hi": 2953.04,
    "lo": 2091.86,
-   "move": 1.46,
+   "move": 1.45,
    "target": {
-    "mean": 2750.06,
+    "mean": 2758.62,
     "high": 3300.0,
     "low": 1925.0,
     "n": 34,
-    "rating": "none"
+    "rating": "buy"
    },
    "news": [
-    {
-     "t": "Asian Paints Share Price - Live NSE: ASIANPAINT Stock Price & Chart - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14U2I2TUt3bmZGekZ5VXZvNkliTmx0YzZNYVNfWjJuaU41OF9OcjVBaEltdUxaMlNlMl8zMm1QQmUwOS1jMDJHMTFDNHV1SUREWTV6TjVERW83VWR4Z3AyQld5T1N4VkR3cVBZ?oc=5"
-    },
     {
      "t": "Asian Paints (NSEI:ASIANPAINT) Stock Forecast & Analyst Predictions - Simply Wall St",
      "l": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkN2OHNyOXpLdERkVVhrMFhJMkZoMVVsZ1NkdXNOSlRtVEhRT3dfN1Qxd0xYOERaTm1wamJ0R3pCVVo0T2NiSTZSMzA0WWI3VEdpY25xc1ZJWEF1RTJEcFFwaDZtNER6RkpfelFEZHJYeXRXdkljOHRDTnZyMEpTdzJMVzl5Tll1ekxZ?oc=5"
@@ -383,12 +379,16 @@
     {
      "t": "ASIANPAINT Forecast — Price Target — Prediction for 2027 - TradingView",
      "l": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PUkV5ak0wNURXY2YxWU5jNVFRQnFFeHM3dHV6MzMxMzdFZHBiNDBSZGtlQ1JUMHpVVGdjaWd1YXh1eXlaLWFzWUp0R2p5VDVmWUZ0T01saDlFa01icnEyVnpXdkJ1QkJpVHNBVDN0VEtLNmZHRlRxNWczQ3pOdw?oc=5"
+    },
+    {
+     "t": "Stocks to watch, Sept 24: NSE, insurance stocks, OMCs, Asian Paints, ONGC, Britannia, HUL, Avantel, Bharat Dynamics - Upstox",
+     "l": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMUc3UTFqZzNXZ3hWdUdBVUdjY09DUlJPMXNwNnA1bWZSNE1fVUxpS19jZ0I2ckpYb0hLdnM1TGE1NEZjaTd1OFpBZElFNHRBZmZmMEFORlR4TmxfV3IyczNEbVVjUDFfdnlvSDJDQ0FSMWEzSVpPYWlYcXRLNnBVQXFtOUNob3B4eENzV3NZS096SHlyalJHbi03UUk1eG1EWm9jdjBxRzFzZ2Y5cnczRzJVbVdLMEQ1TXY3eldEdlgzRGJ1cXQzczBLYUJrT1EtOWJrdHB6aUhLYUNmZWZJMUkwSGxqOXZ6Z005al9feENUMFg3bUU5Ng?oc=5"
     }
    ]
   },
   "INDIGO": {
    "name": "IndiGo",
-   "price": 5531.4,
+   "price": 5544.0,
    "prev": 5587.3,
    "hi": 5970.0,
    "lo": 3895.2,
@@ -402,26 +402,26 @@
    },
    "news": [
     {
-     "t": "INDIGO Stock Price and Chart — NSE:INDIGO - TradingView",
-     "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PMVY5aEc3RnViSTlibEpocHNEUWV5WmZSUTBwQm5qck5xUmVFRHpSVGF2TFRGTHV5NF9uMHA0YmY1TU9EcklHSElsd2FVZVBqaUhJbU1RSEFtRTg?oc=5"
-    },
-    {
      "t": "Interglobe Aviation Share Price - Live NSE: INDIGO Stock Price & Chart - Upstox",
      "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjamxKNHRzV3pMT2NjN2IxVlE3SmI1Rk56SEczNl92RXJ2Z1JQSVZuVzMwdW93MjJUU1JSbHVsUG1oeVBOMFUzOEdRdVQyYU9YV2Q5UFVVYjhIUTlVWGJVUFR6MmNZR3dnLUNRb0JXNA?oc=5"
     },
     {
      "t": "Institutions own 34% of InterGlobe Aviation Limited (NSE:INDIGO) shares but private companies control 39% of the company - Simply Wall St",
      "l": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZEk1YnVTZFpIR0VMRnpqREJpQ1BZSDRYQjlNTWtuOU8tM1BCNnZ5aDZKamU5ekgxb2xwTEhQaW9RN2N2Yk1BZGY5NnBMZXQ1QklRLWNOaVJxOURrdnU3dFBSV3lHNXhyTVliRUY0RnZNLXZKTVFOV2hQZWFKR3VtWUE2alh2azlqejhTQWJqM2llWHpyNkpwQ0k3QjNMRWQyRjU2WFBZcDBab2RkOXNITTV0WHp1YlA0dVNaYUN2cm1WQXhaT3NDNnNGME5raWtqRUdHYW9OdDEyZG03VHJtMFlZa3TSAeoBQVVfeXFMUDRHVmxRTFltQnNNLTRTZ25BeVVrUWl5elNOV2F5T1k2djlkaHZIWFlQeS1ObXA4ZVJkc29wTzRNZ3AwaWxvam9HTHl1MExXQ1JwMEt3RHpaZnNyUzVhTmRveXlmMC1BR0pETU1ha3BuS3FJV3JWUXZNY3dFMDlyTFBLN1NUeUdHZVEwRElVWE01Rnc1WENnMERZY0VPcFN6UEdMVmg4eW5NUXdCSklmakJjZWloNWk2aFdaR09mRjFScldPM1Noc09wZTBuQ3hJdUFJcHRJNHUwX0FndWswa3JTUEExOE93czdR?oc=5"
+    },
+    {
+     "t": "Max Healthcare, IndiGo parent to enter India's Nifty 50 index after rejig, NSE says - Reuters",
+     "l": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc3RBZ29kMDNMdEY3WEhWdlM2ZXJibjk1cS15aWgxNmVoRUVlYkRUTFMwWUg3a3htelZmT0s0aE1ndk1lRExWdWttYUg2VzVHRXlueExDRHdIVzNmd2FzMll3dDgtQzd5bFNTdF9qNzJNZzRTT3R4MUlpTl81QS1JM0p2cWFEMF90TUFETjcyX2RYaXhwVHloSXFIb3VzbEUyLUxvRWlZMUF5UGphaDQ1ZmVtTk4xa1h4NkpYcjh3ZlJva00?oc=5"
     }
    ]
   },
   "TATASTEEL": {
    "name": "Tata Steel",
-   "price": 183.55,
+   "price": 182.26,
    "prev": 186.68,
    "hi": 219.87,
    "lo": 156.83,
-   "move": 1.58,
+   "move": 1.6,
    "target": {
     "mean": 217.03,
     "high": 260.0,
@@ -431,28 +431,28 @@
    },
    "news": [
     {
-     "t": "Tata Steel Share Price - Live NSE: TATASTEEL Stock Price & Chart - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LRXJEU2pOS05Zc1RWQTRTNXNFT19YSXA3NG5Fek51VUNvMGpoNG9vNW9jem5MUTd5dEJITmJqLUtmcnhaZnRsbEVlTEt0YTdWM1IxbUFiMmZIVDUteE8zNmNpMTR6ai1L?oc=5"
+     "t": "India shares higher at close of trade; Nifty 50 up 0.58% - Investing.com India",
+     "l": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1ZKSHMyYmdsWkJoRkxsV2pHR3FmOXYzZUtGb1Z3OG1fRjBuaWZFX2FhTVhwSmZBcVdiVDNOYUVCdXp4WUdlYnpMcVBFOXkwb2Z3TjZBdTh2WTlIMGRkYTVrcW1NOGFFc2dKOGdoV3pWeGNTcENUeElSVzJuVl9CdHFCVWJCVUJNcXhpWUpTa1ZDcVNqV2E0SmpUSWk0U1hyNzlFeUY2U1ZrUnhTTFE?oc=5"
     },
     {
-     "t": "Tata Steel, JSW Steel, Jindal Steel remain Nomura's top picks; brokerage stays positive on sector - Moneycontrol.com",
-     "l": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTlp6MVh0eUg4ZXhYN1J1Y1RHVDZ1dExMSUtCX25hcEdRQzJNUFFpYVpYYlNIcW90WWgxZjJuVWdLemZzdHZVZHptcmdoUDA5UWdVZ2t1NUktTnZwWFRDb2lmLTVjaTdvQ0VxTFU2VHVKNDcybjhNbElESEdkMTh4SGxaNktTZjhINzlPU2JqRFlZTTV3RFZ3bVlFV0tybHltM2p4ay1QX3phQXEteVI0dDBZbXlZYVhxbms0Rl9iNVNSX3FfekZWa2FPTmhKUjUtNmcxckYzM1RNc01WWktfRE1fSjItMkwta3VKR1QxWdIB9AFBVV95cUxNSG9NTGFJbk00aUczcXBVd0xtTEJ1aFVOdmFCSzdpOVlRam8yVVZHX0dtQWNIY2lRWHEtQXo1anMtQlNadkVVNFo5UG93R1p2Yzdwcm8tak0xSXBCVEFKeDhpM2pjOGZJVExLb3dPQ2JJR0JoZ1BGaTU1SlRsUnRYTjVsNDNGZzRIYXh1OUh2VThfSjRtQzdGdUVPNy0welhnUHNUMTFoRVBWTUlwbjJfb3lBbWRBYjlJSHpJZmtyUUpMRVRMT3ZWMGJWTXJFaTJuWUp3LWZCblBHeW8waVg2UURZcUhlTlNhMUR4Sy1jX0xtVXBD?oc=5"
+     "t": "2.1 Lakh Crore Market Cap Stocks to Buy in Nov 2026: Top 5 Picks - Univest",
+     "l": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SHJWTkNORjRhNG9CdkRMQldMTkZnR2lLZVVxYWpPdTBPV09NRUJVbnluTFVqb2tTMDBkN0w4cWE1THpxa3lSdWIwd0RiamVobFdXMmsyaWFjclY0UjJ5VGVoYldvanlLLTZMbklQMkJuMEFsVmJxaVJ6ckdWVEU?oc=5"
     },
     {
-     "t": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada - Business Standard",
-     "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVlpPWlh5emZPQm4xdDRERnV1bjNyUUlBekZ5cUxmZFhIc0tOU0E3ak9DLUdPVnVxYnFnN0JoYVdTcEstb3ZTZ1ZQRkZtREtSd0tOelhRR1FUVnpOTlpnX3BsZkZmeHYwVVphSTdld0dMaWNHMy1KYnJjM3ptZmhRMUh1aDRXLTl4ZkJELWZlTnpwanJlekItRzlvMk53ME9Ka3NhSHFpUEdSc2ZtY1dCc19MWC1BeGRBLTJ3bkotN2cwVEZrRVphcVR1RkJIcll3ajBGUEdObWpxNlnSAeABQVVfeXFMT29XcVZicVE3ajlJd19CU29CR0RhbGhJckNTQnF2MUl0U1ZmYjdQZ2xUdWx1cE1MUEZSd3JJQ2RXY2lUMWN2RlczdnVfSi1VTVRFQWRzYWNCYUx0SEc5aGRrSEgybDItZDBEMS1Nbmcyems2Y3VYQUxudk9VSmxuYkJzLUFWMWtlN1JYVnh5d0k1eUt2TkpFZmJiRkNpZjJ4dXlkSmdoSVlaUy0wdHprNU9QOWktZGl5aERMOHRYWDB0bWdPLWpHNWN0RGljZmNOM2ZmQUhzc05YcjBCUGRvemg?oc=5"
+     "t": "A Look At The Intrinsic Value Of Tata Steel Limited (NSE:TATASTEEL) - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHF0RTdqQnk2T1hXYXFtWkl0eTRUNnRTeE84VlRtdVJOS1dCeG00OS1odlVSODktZVhKRkxpZjFPRzM2ZmdYN3ZvTHg2a0ZqZmhYQkNNU2hIX3k4MDZXVEI3bEJabzZ1dUJ4YV9sT2JMTzZRUG9GYXJHSmdKdVZBbjNyaHp6eDVGSVMxOXk4WHJtbFMwaHpvUFk3c21FS0thang1a205LVdjY2ZXclhMV1M1RklaNmVOaEp5aEhmOFlMUWhZYXJDZ2JjQVNmVlRjQmlLazFjTGLSAd4BQVVfeXFMTVdHcTd0YWFvbG1GdEZIVnd2VWtSb1BtbWoydThyRVJxVXRvY2lickplVGc4dE4ya0FYM0l5c2JDSE5GRVZyWEdnRjlDWDRfY0JjRDhVSWgwX2NuMV9YYTZkd3diTm1uMHM2TWxlY2pHeWg0bE9ZaUtKbm9hbXRBN1VnWm1uMFF1WUc0eXVuajhTZzRaV1Z1blRtY245QlhHeFViTlNIU2Y2OG11Wnl5RlVQaWFqZU5tY055cTVxblRnRHJNbkFZTi1Zc1hXMzlGdGJaQkZWcFFRWXc1WFNB?oc=5"
     }
    ]
   },
   "HINDALCO": {
    "name": "Hindalco",
-   "price": 935.5,
+   "price": 923.3,
    "prev": 943.6,
    "hi": 1169.9,
    "lo": 767.84,
-   "move": 1.51,
+   "move": 1.53,
    "target": {
-    "mean": 1129.3,
+    "mean": 1130.23,
     "high": 1350.0,
     "low": 780.0,
     "n": 30,
@@ -464,18 +464,18 @@
      "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LanFkeG95aGdQRGNtS2RLWTRfUkx0VnFNNmVIQ0pXWXFXUGZXcXFkYnF5YUhfS1hCNnR0QmhhazlPYmowNmdGclp6U3RqRDk5WjRwZmkyeUg4QWJGWXc3eGdZV2otYzFsZ05JWkp6WQ?oc=5"
     },
     {
-     "t": "Hindalco shares fall 1% after Novelis announces $265-million sale of China units - Moneycontrol.com",
-     "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMDdfUEt4MjNnOFVnOFRrLV8xNmdDRkY5LVl4X1YtbUdnYW9EN3o2c05GWVdva2dqaGNQVmVUOW5RSzRkU1FLekMyaU9aNTA1VVJOWWpaQkVKZzVNeXF2Vm94ZU1RQjlUUkJjUy1kVVQ4N09ibkNhaHFrbjc0aVZKQXhnYm1BSWNIWnh6Tk93bGpUZ3NkMGNqa24tc0dXUFZUTW9xSVRxcjdPQU9GTE1nRFhEQnlKVk5jNWVDMlJkd0JITFVuNUthSk0xMGJTUUk0NkhpT1JmRldxNUHSAeABQVVfeXFMUFEwbV9GWlRNRXdrcVBtZHVvcTZUS1FqMk53aHF4TF9yMlRpU1VpWHptSWRteUpNNkowZF9PbXZnUmFsTWJKeEZXVHZ5RlM3c1J4a1Aya0JONnB3R0RWaU1vbVpIbkNiVnVZRzVfbTNxeG9TekhEazRfc1lpRTdDUWdzZndNZWpxTk9pMktLZjFnVXE0WFZGcHVhRmxTV2Q1V205VDNFVWVSNGM5UWM4QmJ1dWdBTGVDYlVCRDhqcmpZUURPUnVsZVhTR3ZnNzBMVVZuWHJQbjN2bVBxVE1tUGo?oc=5"
-    },
-    {
      "t": "HINDALCO Share Price Today - Hindalco Industries on NSE/BSE - scanx.trade",
      "l": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPVUo5WUViSG9TSFl3MFhJU0pGZlJTaWItRUhsR29aTFI0V1NHaFZyR0xHMHc0blBaZzh5eDU4T2IyMm9ZTS1McURGemhRM2NnUzRoV2xlM0xJRUV4emFZQg?oc=5"
+    },
+    {
+     "t": "Hindalco shares fall 1% after Novelis announces $265-million sale of China units - Moneycontrol.com",
+     "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMDdfUEt4MjNnOFVnOFRrLV8xNmdDRkY5LVl4X1YtbUdnYW9EN3o2c05GWVdva2dqaGNQVmVUOW5RSzRkU1FLekMyaU9aNTA1VVJOWWpaQkVKZzVNeXF2Vm94ZU1RQjlUUkJjUy1kVVQ4N09ibkNhaHFrbjc0aVZKQXhnYm1BSWNIWnh6Tk93bGpUZ3NkMGNqa24tc0dXUFZUTW9xSVRxcjdPQU9GTE1nRFhEQnlKVk5jNWVDMlJkd0JITFVuNUthSk0xMGJTUUk0NkhpT1JmRldxNUHSAeABQVVfeXFMUFEwbV9GWlRNRXdrcVBtZHVvcTZUS1FqMk53aHF4TF9yMlRpU1VpWHptSWRteUpNNkowZF9PbXZnUmFsTWJKeEZXVHZ5RlM3c1J4a1Aya0JONnB3R0RWaU1vbVpIbkNiVnVZRzVfbTNxeG9TekhEazRfc1lpRTdDUWdzZndNZWpxTk9pMktLZjFnVXE0WFZGcHVhRmxTV2Q1V205VDNFVWVSNGM5UWM4QmJ1dWdBTGVDYlVCRDhqcmpZUURPUnVsZVhTR3ZnNzBMVVZuWHJQbjN2bVBxVE1tUGo?oc=5"
     }
    ]
   },
   "VEDL": {
    "name": "Vedanta",
-   "price": 254.19,
+   "price": 253.0,
    "prev": 259.68,
    "hi": 779.49,
    "lo": 221.6,
@@ -489,26 +489,26 @@
    },
    "news": [
     {
-     "t": "Vedanta Share Price - Live NSE: VEDL Stock Price & Chart - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91QTlKSUg2Y3pJamcwYkpIc2tRWWpzQjA2dzFVbEtGcVB3bXZzWjdfZHRRUlVtcDRLQ1hGamxTcGVlbU9mc0FTUy1oekQ5d1NvY3NKb2FSSTZmZXNuRnFJNEFZbHU?oc=5"
-    },
-    {
-     "t": "Weekly Recap: CB-OS-02 block control and ₹8 interim dividend - TradingView",
-     "l": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWkR4bzZWc0RiWmF5eGFMM21OSVZ3YjVyVDZOTmlRelA2aGE5UzVhUmk1SDBGZGc3X3VMdUFFM2NCbVFOYTV6d2stSEtYY3RLYk5zVE96MzFBbkREckJHZFZEenAxUmFTeVUxYTAwQ0dTb3RPLWVUR2dvdFoteTd6aXZ4a3Y0Q1ZVYm5rMkhxVlRPZjAwRWRqSlhLS2dMYkJpOThUXzlvbGRocXB5d0dwdVVZU0VMT0xpZlFMbw?oc=5"
+     "t": "Vedanta Shares Hit Day High of Rs 268 on NSE - Equitypandit",
+     "l": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNkk2WXdzV21UeFdodHQ1OFhFc2MyalZZaVVQV3NKRWgyeGNpbkR5eW13bzlXM3Z5YzB1M1Ffd1M5cUFsa0JHSGhoRVU3S180ZTlIVkJ1eWVnLUpYMG4wWVl6ZWozNW5aOHpYckllcnlPemZGQmtwdTlxNmtFTHc?oc=5"
     },
     {
      "t": "Vedanta stock down 7% after block deal; over 100 mn shares change hands - Business Standard",
      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzNjemhFVTY1RlBQaWdSRnR6aVpFMExVSmt0RUVWSktXY1lOcW02R2N2YXJfTV9yd3Y3Y053TnF4WmpFQXdETHh4aUtqQW5seDNBcDJ4WXR6aXZkcmRadTA3bU5QOUVuaTVrbWpWQ0hfeG9HMlp5M19QVGFrNFNVLWxtVjRQc2lPTllhdE42MEMwUkpjN0NORmtCNmhIV1Vnbm5sUjNDNGpGOUN1OHRrek5MVG9UbnRWMGMxemMxQ19kMkMzLUYyTFdvQXhHY3E1NnfSAdcBQVVfeXFMT21TTWJxcWFLNjhjRXJ0QUVSOVhmSWROclhiaUlDdVZKMmxpZzZEX291bkpxNzRHYndrVnFJRnFINVRBeTZfTXd4ODh3OTVsQjA4bXhWMkRycUhxeW40MVczcnRsYkI1a0I0eHRzRlpjdjZvVVAtdGlKVnNDd3RlM0p6Z2hhSjhTWng1UmVscU9EdzBST0pRTFo3TVUtcFRuUGE4Sk1fZ2pCbk96MVN6bUg2MTNPSmZBay1IZk5vV29ySlZHZERlbU5CWWhoTDcxNUVZUzVXams?oc=5"
+    },
+    {
+     "t": "Vedanta Demerger Live: Listing Prices for 4 New Entities on BSE/NSE - Liquide Blog",
+     "l": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NZU5fbENiS3BZU3RZTTUtU28yNElaOGZ4OXl2X2MxbXgzMmp5OVdRcjNidDJEVkdFTTFkVlFiMFpSTk03RVBPXzBOemRQaks5dF93RWtvT0phOVVPTnl6bi1KMU90VUxVOHNwRk1od2NvcF9QWFBrTFpn?oc=5"
     }
    ]
   },
   "SUNPHARMA": {
    "name": "Sun Pharma",
-   "price": 1886.8,
+   "price": 1867.5,
    "prev": 1880.0,
    "hi": 2046.9,
    "lo": 1569.37,
-   "move": 1.17,
+   "move": 1.18,
    "target": {
     "mean": 2111.94,
     "high": 2320.0,
@@ -518,12 +518,12 @@
    },
    "news": [
     {
-     "t": "Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders - scanx.trade",
-     "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdKSGk3Umd4NDczVWhOZzRMNkJ0UHA1czhzeWtBZ29TMnlZcnNYNngwd2NLZVlQaHAxVGM1cU1ac190NnhaQ2JfdkV0dUwzbnloeVg3OHFQeXYtVmMzWW4xTk1GZE5YSkFIeXpWQkZYN0MtaDNJQ19rbHBFQ0huX3hKaWpMU3V2Uk9zZGtYckVDQ3Nqd2c0SnNVQ3d3Sm9GM0pJLUhYdk1sSFlVYmZlcmx4Q1BwRmtLRmNmWHpkUlhiaFZuRzFrVlMxd3VPdmc?oc=5"
-    },
-    {
      "t": "Sun Pharma Advanced Research Share Price - Live NSE: SPARC Stock Price & Chart - Upstox",
      "l": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLcWNxRnd3TGd5dHlJOXl4YWNWMW00OF84cF9PZHRWY0VRR0hocElnRERUdjA5clRYdFBvOHQ1ZmoxMEFGblRhdWpDaUxnMUhILVNVempRaDByWFdld0FjelQyUi10NlF2RkhxZlpoaFh1QQ?oc=5"
+    },
+    {
+     "t": "Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders - scanx.trade",
+     "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdKSGk3Umd4NDczVWhOZzRMNkJ0UHA1czhzeWtBZ29TMnlZcnNYNngwd2NLZVlQaHAxVGM1cU1ac190NnhaQ2JfdkV0dUwzbnloeVg3OHFQeXYtVmMzWW4xTk1GZE5YSkFIeXpWQkZYN0MtaDNJQ19rbHBFQ0huX3hKaWpMU3V2Uk9zZGtYckVDQ3Nqd2c0SnNVQ3d3Sm9GM0pJLUhYdk1sSFlVYmZlcmx4Q1BwRmtLRmNmWHpkUlhiaFZuRzFrVlMxd3VPdmc?oc=5"
     },
     {
      "t": "Sun Pharma shares slip post Q4; analysts cautious on near-term upside - Business Standard",
@@ -533,7 +533,7 @@
   },
   "DRREDDY": {
    "name": "Dr Reddy's",
-   "price": 1391.1,
+   "price": 1377.9,
    "prev": 1380.0,
    "hi": 1405.98,
    "lo": 1101.0,
@@ -562,7 +562,7 @@
   },
   "CIPLA": {
    "name": "Cipla",
-   "price": 1400.6,
+   "price": 1394.5,
    "prev": 1391.8,
    "hi": 1525.39,
    "lo": 1154.87,
@@ -591,11 +591,11 @@
   },
   "MARUTI": {
    "name": "Maruti",
-   "price": 12889.0,
+   "price": 12571.0,
    "prev": 12854.0,
    "hi": 17197.29,
    "lo": 10985.0,
-   "move": 1.61,
+   "move": 1.63,
    "target": {
     "mean": 14513.42,
     "high": 17518.0,
@@ -605,22 +605,22 @@
    },
    "news": [
     {
-     "t": "Maruti Suzuki Share Price - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RNTd2UVdUcFQwTzlWUl8tX05yTHQ4c3JkeGRFUmZfRm9FMjVPTE1kRHRtel8zd2FidnF0cEVJR1ZzTV9tZmtqREd1V3pLTk9vY2NXSl9jZEpHeXpjaVlsRFVOelM1aTVNWWp5dXFvNA?oc=5"
-    },
-    {
      "t": "MARUTI Forecast — Price Target — Prediction for 2027 - TradingView",
      "l": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRkJDZG9aR2JkVGpGWmhkbmRfSjdlQ1RXOTZWV2RCaFo2amRnVFFVQXhwQWZCcnRsdzBVUkh0RUtFcnB3R0t1OTNjdFVFNmxFTVdSUzFjdk1teTJxQzNpcWNXRXQwMkxRRDdqTFBDMWlJcWh1QmlXMw?oc=5"
     },
     {
      "t": "Maruti Suzuki India (NSE:MARUTI) Files Parent’s First-Half Results Reference - Kalkine India",
      "l": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMi1wS1pOZWp1WlRPU1VWTkpZWG5zaTBEb01jX0Z2UzZxWllrelphTTBnU3NhUU14VlkwYzh0bTRyWWV2QjNZZEcybHlmOWdOb1VMM2IzNDU5NFZaNVhpaTZxQVE3aHVzMjQ4cjVXTWprRktONEpGTE5BbUc0c21ESEZPUzd3MHNOaVFWSWVrV2xYUlJxSDNRUnk2UW13Y000U19lMFFMenpocmZvWEhHYWh2Sjd2RWU4SkhFMml0eldnZ0paUzQyWDVLNFM0elhEVzF5a3NyTUE5clVQeFRaRlR1aFAybUhRalE?oc=5"
+    },
+    {
+     "t": "Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY1FuVDB3MjZxdVNWcFMtWGNyVkxfck9uV3hGell0NmttWlh6V1kwU05UREExR01vUWMtVVRlQW1RaG5fc1psMHVJY2xSVkpKajRlUFRLekxuTDQ0ZHJFVEFwNXcwMURWeFhGVzFKckE4azRSd1gtNU5UZ01NU2Z4RHZKQS1acVVld1ZBUi00b0dIblBFRG9oemloUGtwcnBnSjRGNm9LU1BWRHJZcDByLWY0dEJMYjZvTmdLQmwyWmU0ZnFjbmdHcnBuU2ttOW9UU1NvNmF0Wi1GT0QzQ0RDVdIB5gFBVV95cUxNQzg4OUNESWxuWDBIZmNkNnVMQjE3OVN6aVNLdDJ5c2p2NG9GVkNrS1UtM0oxUHpIYWxHQWw3RXRTcTlTUkttQUh4TXhYQUFKcFFHTUFfV2xlLUVtSzRGUkk2aklEZTdLSzdCLTk0aDBxYVBCOVNHc21QUjVTWXVZY2RyM19XM0doYkF5WXowaTBhT2RMX1I4U041X2Qxb09hRkVMeDd3MG5KN19FbnZONDJvdXBBX1NfTkNuMTI5YVE0OTN1NTdzUlczeHNkM3kteDFCck5YUUU3RjJBdTRnb3JnMzhYQQ?oc=5"
     }
    ]
   },
   "M&M": {
    "name": "M&M",
-   "price": 3325.9,
+   "price": 3339.0,
    "prev": 3333.0,
    "hi": 3799.99,
    "lo": 2744.3,
@@ -649,7 +649,7 @@
   },
   "BAJAJ-AUTO": {
    "name": "Bajaj Auto",
-   "price": 10780.0,
+   "price": 10734.0,
    "prev": 10850.0,
    "hi": 12470.0,
    "lo": 8504.32,
@@ -678,7 +678,7 @@
   },
   "TATAPOWER": {
    "name": "Tata Power",
-   "price": 344.4,
+   "price": 345.5,
    "prev": 348.0,
    "hi": 462.04,
    "lo": 333.2,
@@ -700,18 +700,18 @@
      "l": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5"
     },
     {
-     "t": "Tata Power shares rise after Q2 profit jumps 49%; brokerages eye growth prospects amid execution risks - Moneycontrol.com",
-     "l": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVExJRlRnQWdLWXhJUmlqTEFvM0phM2ZWNEltRjlJUFBWODFfczVTTUpweUpaQTJ2c25mQ3ZISVpyaEZadUxWMW1zOEVQYlVsSURLZ3kzUE9ubUpYTW0zSWo4TUFRS0ZOMVA5NW11ZmF4aEJqUkV1WmNwaXZ3WmtLSl9WaXRTcWNDZUJNY1B1X3lFQUFLUVVOSl9JM2V5UWRYUjRkUThoTzNZRWE3bXpMTk4zRmtVRVBhbVIwX0pEMHE3djQ3VEE1QlZQMGp1OG1DUE5fR1hDVWRNT3ozekgwOFp0R1F5M29VYm1jU3FzY2tZaUlxbDQtUNIB_gFBVV95cUxQck4wQ0p1WEVxOE13Mjl2eU5Mb0pmczZOUDZlTUFUQUpkbUtpS0RBOGVDUkNCZFYwdHFkeEkwVDBzQUVEVFE0M09hUi1BeWdSeXlkX3d0czZWZHhlTVY2bmtybXcxNnEtNjRHTFlTY09ORjhLX0VVREZXa3ZLd2JROWdabU5VZlQ5VGl3ZE5hcWl0a1VFdDNtdDVYOWE2UDRYR2Vaa1pnRG1wNDExcVo0VG1sZXA1VkpYVVdWaEVKZ0ZBVTZhc1BjVmQ1aXZyS25pOEJkSUI4b3Q2YnMxUjhCMWItQVplRTBEcENWekdOUjFRMnFXc09pdmJGUnJYUQ?oc=5"
+     "t": "Results: The Tata Power Company Limited Beat Earnings Expectations And Analysts Now Have New Forecasts - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzF0OGtlRDhJX1NYaE9FSV80WVptNzRHRC1lOVYtdUQ1VWlVRGUzMW5hS1FtaGR0c2toMTQ1OWtxNE5vMnVRc2FlX2l4aExuaFZrU05YM2ZCMzVvYks4cWNRbnNWRHpNdFg5WmF4eVMtQ0NGNll6VWdrSERKT1hGeHRlT29JS09pUUh3WGNyczlLTEZpek5HdlB6UEhNNnJ1NzkyWWlSdktveUhFTjBBNTdoVkVrT1hhODVNVGNldzRMRFF0Y3FReFQzT05vR0VkbFBad1dn0gHbAUFVX3lxTE5EbzhwUEt6elgxRWtEVXhsU19BYjhUbnZ1N2pCWmpsMU5DZ0pwN2ozaHZGWFRpMjVsNThPdFZoX05GTkQxSmlma3NtMXhfLVQ2YVBHOE9qclRTUjVGRDhqUEpGcThoeHJZZS1FdVBoZUdoNjZkMzllTFUzR2pHRmoyRy1ZYXZwLTVxZE0wYUktTXlpTDM0WENLYWFnQlFIT1ZadHZiSmxvMFRBMjZSbGNQNXFHdXlReVg2cnpQenRORjBDU0hhZnRJNTBMd2gweURnX3hrSzh4NWFlRQ?oc=5"
     }
    ]
   },
   "NTPC": {
    "name": "NTPC",
-   "price": 318.1,
+   "price": 321.25,
    "prev": 319.1,
    "hi": 406.09,
    "lo": 289.28,
-   "move": 1.18,
+   "move": 1.19,
    "target": {
     "mean": 418.54,
     "high": 485.0,
@@ -736,11 +736,11 @@
   },
   "POWERGRID": {
    "name": "Power Grid",
-   "price": 256.9,
+   "price": 262.2,
    "prev": 257.45,
    "hi": 319.73,
    "lo": 239.52,
-   "move": 1.42,
+   "move": 1.44,
    "target": {
     "mean": 311.04,
     "high": 400.0,
