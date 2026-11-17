@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:17:05.492479+00:00",
+ "updated": "2026-11-17T19:15:14.424620+00:00",
  "sectors": [
   {
    "name": "IT",
@@ -69,11 +69,11 @@
  "stocks": {
   "TCS": {
    "name": "TCS",
-   "price": 2406.6,
+   "price": NaN,
    "prev": 2405.0,
    "hi": 3269.78,
    "lo": 1955.62,
-   "move": 1.87,
+   "move": 1.89,
    "target": {
     "mean": 2390.75,
     "high": 3266.0,
@@ -98,11 +98,11 @@
   },
   "INFY": {
    "name": "Infosys",
-   "price": 1130.0,
+   "price": NaN,
    "prev": 1145.1,
    "hi": 1653.52,
    "lo": 958.44,
-   "move": 2.03,
+   "move": 2.04,
    "target": {
     "mean": 1200.1,
     "high": 1627.0,
@@ -120,18 +120,18 @@
      "l": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2V1U1ZktaS0l6MzBNR3g0aFBIYXh5SnVaN2w0Mnptdi1yWlB1bFZnU01sZFpEaFJudnJ1LVZfWUxfZFctR0VqMHcxU0ZhNktNNHhTVnRhQ0R6YWFzV1VLNkZQaUx2aElMQ1dUbUhDNDk3Rnoz?oc=5"
     },
     {
-     "t": "Infosys Share Price - Live NSE/BSE Updates - ICICI Direct",
-     "l": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVUySFQtMjZacVVoWEVtX0pwbzBIQnNKRno5UDlpNTlodzZvQlItVV9oNkhhWnJGRDF4MF9nbkFPcUhTTkUwbGN1SC1BSjNRZWlobGVEQ1BjZlN4Q3NWLWNSWndycDZmNXc?oc=5"
+     "t": "Can Metropolitan Stock Exchange challenge the NSE-BSE duopoly? - Finshots",
+     "l": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkdPclpUTjR6eGpDMmtVS1U2WkhMeXViYTVkSWo2X0ZPcm40ZzBZSTR4dGdjTkdnZWo3MmF0ZGt0bDNjV2pPOGtXWThXNlBEWFZpTmRMbmFSYVRwVnJ1YUhqTGRlVHlmc1F2eVVkRUJJQ2ltMDJKZGM5RllDUklnNmpVa01fb3o1WEtONlZEUTc4NWEy?oc=5"
     }
    ]
   },
   "HCLTECH": {
    "name": "HCL Tech",
-   "price": 1355.7,
+   "price": NaN,
    "prev": 1384.6,
    "hi": 1713.75,
    "lo": 1010.59,
-   "move": 1.97,
+   "move": 1.96,
    "target": {
     "mean": 1277.64,
     "high": 1530.0,
@@ -156,11 +156,11 @@
   },
   "HDFCBANK": {
    "name": "HDFC Bank",
-   "price": 814.95,
+   "price": NaN,
    "prev": 816.5,
    "hi": 1000.94,
    "lo": 669.2,
-   "move": 1.49,
+   "move": 1.5,
    "target": {
     "mean": 961.55,
     "high": 1270.0,
@@ -185,11 +185,11 @@
   },
   "ICICIBANK": {
    "name": "ICICI Bank",
-   "price": 1598.7,
+   "price": NaN,
    "prev": 1585.0,
    "hi": 1616.0,
    "lo": 1177.67,
-   "move": 1.45,
+   "move": 1.46,
    "target": {
     "mean": 1769.74,
     "high": 2070.0,
@@ -214,7 +214,7 @@
   },
   "SBIN": {
    "name": "SBI",
-   "price": 1108.6,
+   "price": NaN,
    "prev": 1090.5,
    "hi": 1212.84,
    "lo": 927.73,
@@ -243,11 +243,11 @@
   },
   "ONGC": {
    "name": "ONGC",
-   "price": 223.52,
+   "price": NaN,
    "prev": 226.99,
    "hi": 295.76,
    "lo": 211.08,
-   "move": 1.2,
+   "move": 1.19,
    "target": {
     "mean": 287.07,
     "high": 405.0,
@@ -261,18 +261,18 @@
      "l": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZndBbkF4cmU5QWRoemVsNXU2dlh6bW5yZXd6bTYyUkNFVUdTWUs1ZkV0ekhaUzl1dlpqRi1PZWlXY0VmNnV5eFUyVDlXWEFNSGNXR256NjVCZ3Zlakt5c2RVTzVBS2RfZE9Sa1Z5SC0?oc=5"
     },
     {
-     "t": "Oil and Natural Gas (NSEI:ONGC) Stock Forecast & Analyst Predictions - Simply Wall St",
-     "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0I0cDhkb1gwSWtTektjTVBPT1VJbE0zbFVWdUZrMUlia2c0V2lUeURyS0ZNZDNXWG1wZ1NDSndUanFvNkZkSGlTcko4bDFmY1Voc1prSTczOWNtTnRqZ1puNm5WYzd2NVNteEZzYnpOM3YwSjRkZV82V1RPTTd4dXVMdU4tc2JN?oc=5"
+     "t": "ONGC Forecast — Price Target — Prediction for 2027 - TradingView",
+     "l": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pT2NvbkM2NWE5ajRTbk5MYzZ0V2lHNThDZlBxSUVjU1ExLUREbmg1QlhiT1Q5NmFLdVFPNzR0X1BFSVhsaGVGdVMzcldCYUZPaUR1N05TT2JIWVFjdjlCWnJDVnl1ZW5MdERaZXZFM2JlMlBfLXc?oc=5"
     },
     {
-     "t": "Oil and Natural Gas (ONGC) Share Price Today (NSE), Market News - TechGraph",
-     "l": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GSjNtNUdBc0ZOV1ZjTHBMRE4tVUs2a0lTa3Q2aUhpVjNlVHZWMElBUXpSSDZIanNUUWtaVUVmdHZLMHJ4NGtwMDFTZm9rUk5zZXpGeHhhd2FyN0I0?oc=5"
+     "t": "Oil and Natural Gas (NSEI:ONGC) Stock Forecast & Analyst Predictions - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0I0cDhkb1gwSWtTektjTVBPT1VJbE0zbFVWdUZrMUlia2c0V2lUeURyS0ZNZDNXWG1wZ1NDSndUanFvNkZkSGlTcko4bDFmY1Voc1prSTczOWNtTnRqZ1puNm5WYzd2NVNteEZzYnpOM3YwSjRkZV82V1RPTTd4dXVMdU4tc2JN?oc=5"
     }
    ]
   },
   "OIL": {
    "name": "Oil India",
-   "price": 433.5,
+   "price": NaN,
    "prev": 441.4,
    "hi": 529.92,
    "lo": 388.85,
@@ -290,22 +290,22 @@
      "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWEVSQ2ZWWjlmVFZvazBCN21SYjNyMzJrUS02MlJTd0pONDBtMWJ6RlJRQkVFS08yS0c4RHE2YVYzZXV5RDMyOEtQOFlvdHhZVnVaUEpCN05FRno1UkxLeGVpWTlHZ05XT1RadlptNGVOX1ktYVZGVmMyZUthLWo3NEdNREsyZC1mcDVLUGkwaFg4RUdJSi1uTmxTY0xLNXp1Y2YwTmM2Nk5VZmdUOC0wNHR1WDgyQjc5TFZZXzZZeHJIcTFibzhrUTNaY1c2c1RSQnpkQkpQNVjSAd4BQVVfeXFMTUc4LW45dkRaZ0R0NHU1dXJpaWpCZVN6SHdkeHdqcmZZQTlsMWhHS0ZTOGJsR0JvY1NrM3lYakQ0bGRjdFRSNzgybHA2OHJnUXJHNGpUUmFrNEhXbjBoVlM1QmRNWTQ1STJLRGpSMW9xWFRKZi1FMnN4dzdWMmltUWxOcVlneGhNVXM4c1JYVHVnTzZGT0FEakE3RGVxbEJUUm9RcFFBMzgxTERPY2dPNjh6dGxMM2hWRXlaRl9PU09xYXB2OEFkUjNTQnNNajZzSzh1aUhxM2M1S3NpR2Z3?oc=5"
     },
     {
-     "t": "Stock Market Today: Sensex, Nifty Open Higher - HDFC Sky",
-     "l": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWEt1YmJYSlJTVldqYWcwTUpiTkVfb2hpaHR6X20yTGZtVkxKbk1WcGZVWElpWW9UOVdMWG1RX29WamNVeHhzWkFTaFpLT09vSGxOMHE1M0V1ek5kakE5U3haUmZDYVozWjkyQ0ZsXzFYLUo0MU1yYXczNUMySVh0akFhSGdURTNQSGNOOEVqM2FOWjVkX3lKSWw5V21KbTNJUnNjLU5IaEdubWVQbGtiSU52SDEza1d6X3BWdHV6bzFXcWo0MzdxbzBDbzkxb1BkVEVjZ2FIcHQ0T0VIVGxzWEdjeFp4QQ?oc=5"
-    },
-    {
      "t": "WPI inflation, oil, FII trading activity may guide stock markets this week - Business Standard",
      "l": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY0J6b3duejZISmRXam5GaGs3cUhfbEZaSzVZTWF2a1VSb0pSTHdYVDN5bWFsNlE2RkdlREsxSjNCOEYwR2M5OWRjRXdOci1QMTVIbEh0Ty1OSnk5YUtwV2lCN2d3WDlfR0xnUDhHSkhLX1lBRGc4NnpzY0dCUk0tR2tIMzM0ZE1ybHNkOGhGX09fd0N4TWp5QmtNNXp4WGp0R3YwazhtcnJydG9NeGZpeWF1S2ZOcS1veWZxeExwSTlGZUtCTElWVTFtZHl2eWh4UDNxczBR0gHbAUFVX3lxTE03Nkp0OGZzUkE5OGRVU19YbnFiN3N0U0pYRTJOdVhNOU9nd2ZLMjVYd21QbUpCNEI3NUEtR0tUVWJNM0pyZFNoaGUtQm56ak9vLXlBQlNFVC1iYTg4dC1YbGViVVlTWlpaaGR5ZWJnZFF0V2NqNUprWDZZQTJZLXNrbHpJR2FJMlB4R25JNmdaSTJRUEt1bmJlYTNMU1UyaU1CSGw2NXJzc2NIc1g5UmNTRlJ4czRYUXBzcllvN2FNZ1ZubDFOS05LLW5jV25CVjlwNlFhT3ZOOE4zVQ?oc=5"
+    },
+    {
+     "t": "Best Oil & Gas Stocks in India - Groww",
+     "l": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzY0hhV2Z0VktSR0dIaTEzWTVmUE5oMUt6M3FtY2ZBbGNfcmZGS2ZEak5tUkgxNGd3enV1dUhKTzRySkJOVndxaEtqWUdTM0VtOU4wMWNOS2ZtVjBnWlNoMUZxcWc?oc=5"
     }
    ]
   },
   "BPCL": {
    "name": "BPCL",
-   "price": 305.8,
+   "price": NaN,
    "prev": 305.3,
    "hi": 391.65,
    "lo": 266.6,
-   "move": 1.61,
+   "move": 1.62,
    "target": {
     "mean": 334.1,
     "high": 457.0,
@@ -330,7 +330,7 @@
   },
   "IOC": {
    "name": "IOC",
-   "price": 145.56,
+   "price": NaN,
    "prev": 144.03,
    "hi": 184.96,
    "lo": 124.92,
@@ -344,26 +344,26 @@
    },
    "news": [
     {
+     "t": "Indian Oil Corporation Ltd. Share Price Today - Indian Oil Corporation Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+     "l": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjZxUGRXSVdjNDZDakRKS1VWdWNFak4tcDJncGwzWlV1Qkt5SUIzeGZCektTUmtTOXZHcU9VNXNkbUFlWnZ2UTZkZUQxN0s4UTI4djloS1hEWmhrTDRtLXE0Ymh0Y1REeWtRemhHZzhmQmx1dU1XZnQyQ0tFTlhSc2V3a1ZYTXFFY1E?oc=5"
+    },
+    {
      "t": "Indian Oil (IOC) Share Price Today (NSE), Market News - TechGraph",
      "l": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSZGhBQm9zVXByZEZFTmpIYm9kZ3ZfblFINy1ZQVNIdk10cFV5dlVldzAwbTZtU3ZvalpXTXBXUzc4LWY5bWpmZXhyeFdtT3hBczB4NDUyN0RUYjA?oc=5"
     },
     {
      "t": "Indian Oil (NSEI:IOC) Stock Forecast & Analyst Predictions - Simply Wall St",
      "l": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JWDc2RElvekJLRlBkVnlIbTVoRVRmVnFwcm1Jelg1ZE1LX1BwMWUxZG9XbS1CMmNuNTFVa0g2NHV5dWZmNTlkdjNkenBCWVhjTHZIQV9McGpYeHkzd3VOc2llZl9MRGxNVzVIUHl6N0F2STR1NWJoQVljaw?oc=5"
-    },
-    {
-     "t": "HPCL, BPCL, IOC shares jump up to 4% over oil price decline as US-Iran tensions ease - Moneycontrol.com",
-     "l": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZWxORUNwU01uTXF4TWV6OU9OcU5CV1dkb210bEVvdzh3cVJNR1JPb3pUVGRHQzIyNFM0X2NuOF9iaHlSck1KWGg1RWRibzI3VlV2NmdYZVRqNzFpckkwNmpGSGIzQzUwXzQ1aWt5OVZzQkRSSWpNam5vYUYxMEJmOXdrVUs1RmY0eWVXR0ZZWmVkS1ROejlOYzJlZGFGUmJTOU81T1dibUZBUktrNmNpTW1TZEhrRFdRZWRNa1Z4SG1meHc5R01DX0RvOVlfZjQ3REEzVW5hMDM2ZG9WcHVaZ1Q4djZWcjNYQ1Vnc0t6ZDZPVmvSAfgBQVVfeXFMUGQxaFBpWTlVTkF6eEI4UGVtc2gwUktIallBMUpUYzlyRHNJVFo0X3lGa3dSaGZmSXNlQXNRTHRlRE52TklzR2RHM2M3UEd6R2lkaXdlNnQ0VzNySTd6eVJMU1pTWV94NnFVRTVpenhZZmNOUkVWS3RBUUNzTGxVT2VnYUVUU2hITXRxVjI4N210bm1tdXNub1lZUm1VbVlRWUYzYmQzbVNVWXBHeWJZX0tOT21nWk54RnhxVEp5SmgyUzhMZ09hLUhfT0pPMHIzRUZhU0NJU0NCUGFWdkoxZlhjTDJnS1ZJSTdTd190QmFjSEh2bFRFZWI?oc=5"
     }
    ]
   },
   "ASIANPAINT": {
    "name": "Asian Paints",
-   "price": 2625.0,
+   "price": NaN,
    "prev": 2572.9,
    "hi": 2953.04,
    "lo": 2091.86,
-   "move": 1.47,
+   "move": 1.46,
    "target": {
     "mean": 2758.62,
     "high": 3300.0,
@@ -388,11 +388,11 @@
   },
   "INDIGO": {
    "name": "IndiGo",
-   "price": 5611.0,
+   "price": NaN,
    "prev": 5544.0,
    "hi": 5970.0,
    "lo": 3895.2,
-   "move": 1.79,
+   "move": 1.8,
    "target": {
     "mean": 5544.92,
     "high": 6490.0,
@@ -417,11 +417,11 @@
   },
   "TATASTEEL": {
    "name": "Tata Steel",
-   "price": 181.5,
+   "price": NaN,
    "prev": 182.26,
    "hi": 219.87,
    "lo": 156.83,
-   "move": 1.6,
+   "move": 1.61,
    "target": {
     "mean": 217.17,
     "high": 260.0,
@@ -431,26 +431,26 @@
    },
    "news": [
     {
-     "t": "GIFT NIFTY futures hint flat opening on November 17; what investors need to track ahead of market open - Upstox",
-     "l": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLUMtQ0pOUFhtY1RGcEZodkdZaE8xdzVuUDVwXzNQaWptUTVEcHExdzBQY3dkTE5nU0dEeGxrOWdRQUNZMFN3WF91bVVtamxWclBCY3NSTk93RUhOeXo2UVM1dDM0NTFHY2tpMTZTUEJXMEg3WkF3NFN3WXY1LXgyVUZBcjJiQmpfSWlSaTFMY2tsd2hudWthY2dHNEZuTHNUWmc3ckNvU3RaaTA1LWJidzBFWW0wcTc2Nlp2cDFfb0N6RFV5TUdwTGNtc21FZmxPM2pSSGFyT24zOGg3YWJoTEpxNEFmQ0ZLcHhBTW5yaHNmdw?oc=5"
-    },
-    {
-     "t": "Tata Steel Limited (NSE:TATASTEEL) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - Webull",
-     "l": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1WjZQMGRBTU9MTExBQldSWVZPZXc5bTVSVnpSeXlWLTVkVUZtQXBtSnlQVlFfOEUtbkRscl9VYzZ5R3ZmaVd3VllaTElHS1hLblZ3RWNUcE4?oc=5"
-    },
-    {
      "t": "Tata Steel expects stronger performance in second half of fiscal: CEO - Business Standard",
      "l": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNzhlc1dDZEtOZWlMd0E4dHExbGtMTmhuRUVRandSMkg1cGpYSm9qT0ZFZE5ReDhyVGN6Yk1zdkFPakhDeE9fQm93cUlpUnpvUFRlRVdnM0dQV21QbG42YUUySHdzTzFwQWlxb2NzMVFOWTFENHdqWjFRZU1KQzd6OFVlTG1FU09QUVAxekt2ekszb3UtVHFMVmp1MnZIVC1sX01ib3hjUnQ4R3pnbDRLVmV0VDNXckdpdFdHT3NFUHp5VVRFUGp6NEIzTkNZal91WGZZ0gHYAUFVX3lxTE9tVzJBcFE1T2ZvTlBOdld1UGxjLWdRVjY3bjZrRGh4S2I3alNpZVVHazgyanVDQy1Va3JBdzFZYXJoQmd4WVBUa2g3V3FRM2VrQkpfZE1qSFBaWktwSFI2Y3F4UHVQU1ZKWFFOdmY4Wk01RzBkTVI1QkpBYTJpWGFveU1LMEJLWWxQNUg3blVHeUtKQnNodFZtLVQ1WWs5MFFxVlg5YlNjX3RZRlJaQVFoWTdaMjIwdWdoLTh2ejJUMWtReVlHV094Q1hlNFY4UDBqRzAtNjMxaA?oc=5"
+    },
+    {
+     "t": "A Look At The Intrinsic Value Of Tata Steel Limited (NSE:TATASTEEL) - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHF0RTdqQnk2T1hXYXFtWkl0eTRUNnRTeE84VlRtdVJOS1dCeG00OS1odlVSODktZVhKRkxpZjFPRzM2ZmdYN3ZvTHg2a0ZqZmhYQkNNU2hIX3k4MDZXVEI3bEJabzZ1dUJ4YV9sT2JMTzZRUG9GYXJHSmdKdVZBbjNyaHp6eDVGSVMxOXk4WHJtbFMwaHpvUFk3c21FS0thang1a205LVdjY2ZXclhMV1M1RklaNmVOaEp5aEhmOFlMUWhZYXJDZ2JjQVNmVlRjQmlLazFjTGLSAd4BQVVfeXFMTVdHcTd0YWFvbG1GdEZIVnd2VWtSb1BtbWoydThyRVJxVXRvY2lickplVGc4dE4ya0FYM0l5c2JDSE5GRVZyWEdnRjlDWDRfY0JjRDhVSWgwX2NuMV9YYTZkd3diTm1uMHM2TWxlY2pHeWg0bE9ZaUtKbm9hbXRBN1VnWm1uMFF1WUc0eXVuajhTZzRaV1Z1blRtY245QlhHeFViTlNIU2Y2OG11Wnl5RlVQaWFqZU5tY055cTVxblRnRHJNbkFZTi1Zc1hXMzlGdGJaQkZWcFFRWXc1WFNB?oc=5"
+    },
+    {
+     "t": "Tata Steel Ltd. Share Price Today | Tata Steel Live NSE/BSE - Value Research",
+     "l": "https://news.google.com/rss/articles/CBMickFVX3lxTE04SFNVWV9BSy1BT0daX0ItS0hVSFNFTDdSeDhpSlpzcEIyZUxPTXNvTjhmbC1IVkRERnVwdC1UNXdRU1NvVjdiZUxNMTFrUmR5YW93X1dLZXhFUjZLNDFoWFIxYXpkbmtmSGVRTXVhT2tidw?oc=5"
     }
    ]
   },
   "HINDALCO": {
    "name": "Hindalco",
-   "price": 927.75,
+   "price": NaN,
    "prev": 923.3,
    "hi": 1169.9,
    "lo": 767.84,
-   "move": 1.53,
+   "move": 1.54,
    "target": {
     "mean": 1130.23,
     "high": 1350.0,
@@ -468,18 +468,18 @@
      "l": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMDdfUEt4MjNnOFVnOFRrLV8xNmdDRkY5LVl4X1YtbUdnYW9EN3o2c05GWVdva2dqaGNQVmVUOW5RSzRkU1FLekMyaU9aNTA1VVJOWWpaQkVKZzVNeXF2Vm94ZU1RQjlUUkJjUy1kVVQ4N09ibkNhaHFrbjc0aVZKQXhnYm1BSWNIWnh6Tk93bGpUZ3NkMGNqa24tc0dXUFZUTW9xSVRxcjdPQU9GTE1nRFhEQnlKVk5jNWVDMlJkd0JITFVuNUthSk0xMGJTUUk0NkhpT1JmRldxNUHSAeABQVVfeXFMUFEwbV9GWlRNRXdrcVBtZHVvcTZUS1FqMk53aHF4TF9yMlRpU1VpWHptSWRteUpNNkowZF9PbXZnUmFsTWJKeEZXVHZ5RlM3c1J4a1Aya0JONnB3R0RWaU1vbVpIbkNiVnVZRzVfbTNxeG9TekhEazRfc1lpRTdDUWdzZndNZWpxTk9pMktLZjFnVXE0WFZGcHVhRmxTV2Q1V205VDNFVWVSNGM5UWM4QmJ1dWdBTGVDYlVCRDhqcmpZUURPUnVsZVhTR3ZnNzBMVVZuWHJQbjN2bVBxVE1tUGo?oc=5"
     },
     {
-     "t": "Hindalco Industries (HINDALCO) Share Price Today (NSE), Market News - TechGraph",
-     "l": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VSFNGNG53eTJZSi1kT2g1NThFY2tnWDRLT29yeXFuR2pGSkZfT3NoN2k1RWR6MDZVeVlrdlFSV0U0QjRCU2NPLVIzTzFnVWlVbFhYNHZOSE5KU2ZKTjI5bVhB?oc=5"
+     "t": "Hindalco Industries (NSEI:HINDALCO) - Stock Analysis - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXJudFM2X0M5aWF0c25NemdfcnZoZ3VzeHFjanFfZi04Tk9FdXp0Y0stbXB0b1dBVzJxTFBxdkd4MzRiVldiNmpwZGVUdDFIYjgtNjctenc1NFM5T2RjdE55QXNvNmhvZDVHNUkzeS1nTjlGZU1VLTFQNWFUOFlJZjVoUHVNbDRT?oc=5"
     }
    ]
   },
   "VEDL": {
    "name": "Vedanta",
-   "price": 255.03,
+   "price": NaN,
    "prev": 253.0,
    "hi": 779.49,
    "lo": 221.6,
-   "move": 2.17,
+   "move": 2.18,
    "target": {
     "mean": 305.0,
     "high": 350.0,
@@ -493,22 +493,22 @@
      "l": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdTc4djVVRFFCaWFZTWNRWmpWaHBSRVZHZXp0dzVRWDVVYzlScjhRUE50X0lqWl9jeHBXTmRoUkkxd1o4dE1FR3ItLW1EeUJIX0xuSms3M0hEc3pHZXhYemJoeWdMQmFaRHc4amY5Q25YSzFac3VzbldJMkh0UGtfQjA3MVloWlZGOXF3OU13RU9lc1drV09Ybk5ZU0g2Z2lLOVdHWjVZcHdfeDRLTzZqeTRjaVlYdW14aVlIRjgzZS1JM0l3SFRURHpBaTQ0eHBOSVpVT1BoS2M1VFU5bG5JRGZXTjVkU25MN0VGMWtaQjUycmfSAfgBQVVfeXFMTXJuNGlyaF9Qc1NoN3k3Z29NNFFJdzhLbkNzUF9faW93SzYzUjBQcExHaDJjQU9PU08xS2VfZVJtNUtDaENJOVFRemVpSUw2UHc2bHJlTi1fWElDNTE4bXJzV2hZYUctR2VQQVhuLUxsd0xHa1Q4NjRnZHhLOEh1SjVrbVlCWERjWkRpS0hqRlU1SVlpWVlabmxsYmN0TFp1YWE2aGFZcmc4WUdVdHBmVlo5b0hMME05aTh5ZE9VbDY1MWVRcF9leVFlZGJ5WHBxdEdXVjYyeWFyVkZ1ZGtoRkpIQnlCcnAxcVl0eFZEOTRrNjhod2x3bjY?oc=5"
     },
     {
-     "t": "Vedanta Shares Hit Day High of Rs 268 on NSE - Equitypandit",
-     "l": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNkk2WXdzV21UeFdodHQ1OFhFc2MyalZZaVVQV3NKRWgyeGNpbkR5eW13bzlXM3Z5YzB1M1Ffd1M5cUFsa0JHSGhoRVU3S180ZTlIVkJ1eWVnLUpYMG4wWVl6ZWozNW5aOHpYckllcnlPemZGQmtwdTlxNmtFTHc?oc=5"
-    },
-    {
      "t": "Vedanta stock down 7% after block deal; over 100 mn shares change hands - Business Standard",
      "l": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzNjemhFVTY1RlBQaWdSRnR6aVpFMExVSmt0RUVWSktXY1lOcW02R2N2YXJfTV9yd3Y3Y053TnF4WmpFQXdETHh4aUtqQW5seDNBcDJ4WXR6aXZkcmRadTA3bU5QOUVuaTVrbWpWQ0hfeG9HMlp5M19QVGFrNFNVLWxtVjRQc2lPTllhdE42MEMwUkpjN0NORmtCNmhIV1Vnbm5sUjNDNGpGOUN1OHRrek5MVG9UbnRWMGMxemMxQ19kMkMzLUYyTFdvQXhHY3E1NnfSAdcBQVVfeXFMT21TTWJxcWFLNjhjRXJ0QUVSOVhmSWROclhiaUlDdVZKMmxpZzZEX291bkpxNzRHYndrVnFJRnFINVRBeTZfTXd4ODh3OTVsQjA4bXhWMkRycUhxeW40MVczcnRsYkI1a0I0eHRzRlpjdjZvVVAtdGlKVnNDd3RlM0p6Z2hhSjhTWng1UmVscU9EdzBST0pRTFo3TVUtcFRuUGE4Sk1fZ2pCbk96MVN6bUg2MTNPSmZBay1IZk5vV29ySlZHZERlbU5CWWhoTDcxNUVZUzVXams?oc=5"
+    },
+    {
+     "t": "Vedanta Shares Hit Day High of Rs 268 on NSE - Equitypandit",
+     "l": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xNkk2WXdzV21UeFdodHQ1OFhFc2MyalZZaVVQV3NKRWgyeGNpbkR5eW13bzlXM3Z5YzB1M1Ffd1M5cUFsa0JHSGhoRVU3S180ZTlIVkJ1eWVnLUpYMG4wWVl6ZWozNW5aOHpYckllcnlPemZGQmtwdTlxNmtFTHc?oc=5"
     }
    ]
   },
   "SUNPHARMA": {
    "name": "Sun Pharma",
-   "price": 1870.0,
+   "price": NaN,
    "prev": 1867.5,
    "hi": 2046.9,
    "lo": 1569.37,
-   "move": 1.16,
+   "move": 1.17,
    "target": {
     "mean": 2111.94,
     "high": 2320.0,
@@ -522,22 +522,22 @@
      "l": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdKSGk3Umd4NDczVWhOZzRMNkJ0UHA1czhzeWtBZ29TMnlZcnNYNngwd2NLZVlQaHAxVGM1cU1ac190NnhaQ2JfdkV0dUwzbnloeVg3OHFQeXYtVmMzWW4xTk1GZE5YSkFIeXpWQkZYN0MtaDNJQ19rbHBFQ0huX3hKaWpMU3V2Uk9zZGtYckVDQ3Nqd2c0SnNVQ3d3Sm9GM0pJLUhYdk1sSFlVYmZlcmx4Q1BwRmtLRmNmWHpkUlhiaFZuRzFrVlMxd3VPdmc?oc=5"
     },
     {
-     "t": "Sun Pharmaceutical Industries (NSEI:SUNPHARMA) Stock Forecast & Analyst Predictions - Simply Wall St",
-     "l": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWFJSkFuWEt6TUZRRXh5YnF3d3Nna2Y5c1pqY3NJQ0gtdzhaaS1ucFI4M2o0VjNiQWNmbU82WVdMelVtcW1JWHNjbmlpcHAyZUdJTTkyU0hPOXJrcnotMl9RV0h5bkpJMU9UOXZ3cU5vbU44VjQyQTVUZk5PV2d3V2g5TGtVMjl6eDdKcTJMWGwxR3R3QWlzTzh1TzZUWTc1b25yWkJEMkdGVk1PUGdMQzRmTQ?oc=5"
+     "t": "Sun Pharma shares slip post Q4; analysts cautious on near-term upside - Business Standard",
+     "l": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmp5MUJhaEpKbjM2Um5LZFB2enhIUjJDd3FTYjNnMmtkS2l5d1NVSUM2bFpYQ1QzMVhaNTNhMmltZlVhOUJ3LVQzQy1MUFVyX2JfU1luekJmbHlSVG5uYzI3Y0dTNnZGc2VvajVtR2ZtZnJVS3g3R2FRYVJ1MHByX3NXbDJUNUlmc1hvdm5hODdjWjJWNU1qblF6NGhmc2loc3VUN1I1SHVUeWluREE5aTVUOEVkUGUzZHk0TE1OcTVITXBhbjB6RUNGTlppNEFtaS1IS19UOHhmcHozSk83YlJXQdIB6AFBVV95cUxPU0lLaHRPSVVlb1ZJaWJ2eXZtVk5UcUxOREZUNktEYlpINVVPdHlhRDVrMndsSGhzbC1XQVc4Rl9ISUc0UE9EVU1CVUVyVUI1NWNCNExUMl8xaXo0VGFUcnFHWldMekdydWhDSkxPclEwenJ1ZnNYRjBLRVVDa0xZLVRGWUF6T0xNY0tKdU0waVl3cTJjSWJJY28xRW9jSFlYUkZ3WmYtR0hRY0ZycWxHR0RLTVltUVRDeVhqcXVSNGM1Zk9OQVByNmFUb2RCcDlZTm8xOGNCTEJXUjlMUXhFUGdDM2VOWExf?oc=5"
     },
     {
-     "t": "Sun Pharmaceutical Industries Share Price - Live NSE/BSE Updates - ICICI Direct",
-     "l": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXFqTm54V2VWbjE1YVJVMlV0Sk1QeUVQYTRBV2ZQT0x3Rmt1T0RkRkN4S3g4S3VSc1dFN2hhbXIwWlRSWWlJWUR0Mk5jZ1F6U0NrUHVqb0VYenZmTERTdXg1SmhlWk5LdGlHVWFfdlFhVjUwVlY0ZEJKckxhNW9QWk1UQ2l6dlk?oc=5"
+     "t": "Sun Pharmaceutical Industries (NSEI:SUNPHARMA) Stock Forecast & Analyst Predictions - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWFJSkFuWEt6TUZRRXh5YnF3d3Nna2Y5c1pqY3NJQ0gtdzhaaS1ucFI4M2o0VjNiQWNmbU82WVdMelVtcW1JWHNjbmlpcHAyZUdJTTkyU0hPOXJrcnotMl9RV0h5bkpJMU9UOXZ3cU5vbU44VjQyQTVUZk5PV2d3V2g5TGtVMjl6eDdKcTJMWGwxR3R3QWlzTzh1TzZUWTc1b25yWkJEMkdGVk1PUGdMQzRmTQ?oc=5"
     }
    ]
   },
   "DRREDDY": {
    "name": "Dr Reddy's",
-   "price": 1388.0,
+   "price": NaN,
    "prev": 1377.9,
    "hi": 1405.98,
    "lo": 1101.0,
-   "move": 1.43,
+   "move": 1.44,
    "target": {
     "mean": 1360.35,
     "high": 1730.0,
@@ -562,11 +562,11 @@
   },
   "CIPLA": {
    "name": "Cipla",
-   "price": 1388.0,
+   "price": NaN,
    "prev": 1394.5,
    "hi": 1525.39,
    "lo": 1154.87,
-   "move": 0.93,
+   "move": 0.94,
    "target": {
     "mean": 1507.31,
     "high": 1800.0,
@@ -591,11 +591,11 @@
   },
   "MARUTI": {
    "name": "Maruti",
-   "price": 12625.0,
+   "price": NaN,
    "prev": 12571.0,
    "hi": 17197.29,
    "lo": 10985.0,
-   "move": 1.63,
+   "move": 1.64,
    "target": {
     "mean": 14513.42,
     "high": 17518.0,
@@ -605,22 +605,22 @@
    },
    "news": [
     {
-     "t": "MARUTI Forecast — Price Target — Prediction for 2027 - TradingView",
-     "l": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRkJDZG9aR2JkVGpGWmhkbmRfSjdlQ1RXOTZWV2RCaFo2amRnVFFVQXhwQWZCcnRsdzBVUkh0RUtFcnB3R0t1OTNjdFVFNmxFTVdSUzFjdk1teTJxQzNpcWNXRXQwMkxRRDdqTFBDMWlJcWh1QmlXMw?oc=5"
+     "t": "Why You Might Be Interested In Jay Bharat Maruti Limited (NSE:JAYBARMARU) For Its Upcoming Dividend - Simply Wall St",
+     "l": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGs0VGVIbjh3eVdfZy1xNVg5X1NqWHZndnlPYnpiR0ZnSm8xUEtuazBoaXROMmtfV1ZFVXQ5Y3JLdkkwS3NIUUcyMmN1U2s5VGsxZTZqc1lyVmNubnBfR0xzR2JpYTJXSVdUVW9uSkppdmd6U2NzYWpFRmcyRm5YYkl5TXdKOTVuQXo1VjlST3NqVDVmMHZIT2tOLWdrcWlvd2k0c0lpMm85eGJNTVhmblpfbHJwV1dsRFRJemlvcVA0SWkyNm1oSjNra2daQVVRTXpKbENXQWFJWkt5UHBpRi1XTQ?oc=5"
+    },
+    {
+     "t": "Maruti Suzuki India (NSE:MARUTI) 45th AGM Outcome August 2026 - Kalkine India",
+     "l": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVBSNWcxMkg0UUNOb2x0XzJ1Y2w5Ulo5ckJZMk1UbXVEOEw1ejgxakVaYjd5bFNwQXdKSGdQNnVrZ2xlNjZfb0IwQVprUGZoMmN0LXU4eThQMDFNQlNRdkdhbW5vSC1WSVEzV0VVR3c0R01XeWN6ejZyQWJOYURxcEdzVnJTN0FJOExXcm1xN0dDSXZCUU9GaTNzc2Vla3J6QVRaSW55M1VxOUZJSkFIMzd6Z1Uwa0NBT0VibVZSeHp1QzZBbThV?oc=5"
     },
     {
      "t": "Maruti Suzuki India Share Price - Live NSE/BSE Updates - ICICI Direct",
      "l": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oUW9wcUJKZjB0cUdRR016aF8zaHpsc05LcGlyOExtRGFwNE45c2J2azhZSnNvUEJOMGJwcjVuMGwwdkp5a3ZsWlp5Vm9hUVNCNi1ZcVE5YnM3Q2VkYmNJUkp5RFlfX0RhMW5CY0xWS014bWZVdHI2UzRR?oc=5"
-    },
-    {
-     "t": "Why You Might Be Interested In Jay Bharat Maruti Limited (NSE:JAYBARMARU) For Its Upcoming Dividend - Simply Wall St",
-     "l": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGs0VGVIbjh3eVdfZy1xNVg5X1NqWHZndnlPYnpiR0ZnSm8xUEtuazBoaXROMmtfV1ZFVXQ5Y3JLdkkwS3NIUUcyMmN1U2s5VGsxZTZqc1lyVmNubnBfR0xzR2JpYTJXSVdUVW9uSkppdmd6U2NzYWpFRmcyRm5YYkl5TXdKOTVuQXo1VjlST3NqVDVmMHZIT2tOLWdrcWlvd2k0c0lpMm85eGJNTVhmblpfbHJwV1dsRFRJemlvcVA0SWkyNm1oSjNra2daQVVRTXpKbENXQWFJWkt5UHBpRi1XTQ?oc=5"
     }
    ]
   },
   "M&M": {
    "name": "M&M",
-   "price": 3399.0,
+   "price": NaN,
    "prev": 3339.0,
    "hi": 3799.99,
    "lo": 2744.3,
@@ -649,11 +649,11 @@
   },
   "BAJAJ-AUTO": {
    "name": "Bajaj Auto",
-   "price": 10770.0,
+   "price": NaN,
    "prev": 10734.0,
    "hi": 12470.0,
    "lo": 8504.32,
-   "move": 1.66,
+   "move": 1.67,
    "target": {
     "mean": 12024.05,
     "high": 14300.0,
@@ -678,11 +678,11 @@
   },
   "TATAPOWER": {
    "name": "Tata Power",
-   "price": 344.5,
+   "price": NaN,
    "prev": 345.5,
    "hi": 462.04,
    "lo": 333.2,
-   "move": 1.54,
+   "move": 1.55,
    "target": {
     "mean": 405.23,
     "high": 525.0,
@@ -700,18 +700,18 @@
      "l": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3dYUURkaDlXZHJqOUpCaGFhd1hWUndTd1dPYXZabWFia3I2SW9rcHBpQklFMU1xWU1BekNPZHByNjl2QnZfUUJ2LTBNY3NNbTFlZHZwRVBNUXhWX2s2cGk0Y3JqdGkydUxYRFVQbHAtZzgxQU5DWHA0ZDl0dDNTeWNoaXBsUGtwZ1RiUnZJVnJhYVVTYm90b2FLRTVOSHVqRUJZcmQxaklBQldOcVpXSWNDeDVjS3E3ZTk5UkZjaXl4LXc3T3pITNIBzgFBVV95cUxOU295d3BoMk1IY1JwRXYyRldfVGlOcld4N1RVMUF1ZHduNXpPN082QzNnRjRfQmk0T29sMXhSNHVDdjRVelp1Ym81RXZmcjdwc2FNWVBUZmFmUVNveng3YWFUX1ZDNHJtWXd3S2Myc0JfSVRHbHQ2d2Iyejdvcy1hdzJUREJiNEVQZk1oVE10SUdja3pSX19DelZkMURXOHpLSk5ualIzY1FFQTlndDg3UkROdkxmb2lzTURIZjVQdmltbVI3b1p2VG1GNE1RUQ?oc=5"
     },
     {
-     "t": "Tata Power (NSEI:TATAPOWER) Stock Forecast & Analyst Predictions - Simply Wall St",
-     "l": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXk5eDFuVkhWQ19meXdTMUxxQ2s4VHZaaFdySVktV2xCMVJOTG9kZ3B4alA1VEtSc1FwN0JGX2xtNk1UTjRSdFJEQlVoQWhMZFVJX1dlcEp4WlNCMnZVWlJkWm1Jd0F3QXZuY200azFneER6N2FWbmlCTUlaSjlMcEZPbHN2OUk?oc=5"
+     "t": "Tata Chemicals shares rise 8% as RBI tells Tata Sons to comply with listing rule: Here's why - Moneycontrol.com",
+     "l": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdV8tYlVVRm1YelNLU0phT3BrWjlWalB1b1FKUDJyVXh4cHpwRnd4M3FBeHlVeTZXSGtPYlFMdFNYNWdlVkJWUkwxRUd4T0hmcG9mSWZtcVFzVi1BYkgxV2ZZcUJEZ3lrTmJqc1h3VlFTTmhaU2piQWhwU2loSDU1WHRTdGZ4TjJ3OEdxYThsTUs2cElMcVFIUDNUQVlZTWQ1SEVrWUUyVV9vSTFuTWJXaUdJMl9fSmFRQ29iREU3ZnQzLTNfV1lnMzBNcjBIR242dmtGcXBlUTdLTmNt0gHiAUFVX3lxTE9JSWFZYzRfNzhjZXY0alh2akp4N2FPYTlxcDhQaTJpTV9WRHg5WEdDTlo5TEZBRFJiMU1HOFdvSDdwaUx4QWpha0Y1ZWw4M3UxYS1WQTNaQzlxUHZUYzdKaHpoWmxNMk0yTjlTaUZHT2pnSmc5Z0U4MktYaVRSbnhMQUsyS3hsUkVjQ2hUT3Z2eS0tamlwLVIxd0tXcGlrbnY1UExXcm5YMlE4dzQ4NWhSazV5NklJdS1JbGJxTGRBbzYxLTFpTUE4Ti1jT1lnRHZ2UGo4emtrXzZIMTZOb3dkNlE?oc=5"
     }
    ]
   },
   "NTPC": {
    "name": "NTPC",
-   "price": 321.8,
+   "price": NaN,
    "prev": 321.25,
    "hi": 406.09,
    "lo": 289.28,
-   "move": 1.19,
+   "move": 1.2,
    "target": {
     "mean": 418.54,
     "high": 485.0,
@@ -736,7 +736,7 @@
   },
   "POWERGRID": {
    "name": "Power Grid",
-   "price": 258.0,
+   "price": NaN,
    "prev": 262.2,
    "hi": 319.73,
    "lo": 239.52,
